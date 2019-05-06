@@ -1,0 +1,49 @@
+{% extends "example/base.html" %}
+{% block content %}
+	<h1>Sales Page</h1>
+	
+	 <form action="/action_page.php">
+  		<label for="country">Search Criteria</label>
+ 		<select id="country" name="Input">
+		    <option value="Date">Date</option>
+		    <option value="Id">Sale Id</option>
+		    <option value="customer_name">Customer Name</option>
+		    <option value="employee_sale">Employee</option>
+  		</select>
+	  <label for="fname">First Name</label>
+	  <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+	  <label for="lname">Last Name</label>
+	  <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+	  <input type="submit" value="Submit">
+</form>
+
+{% endblock content %}
+
+<!--
+	<article class="media content-section">
+		  <div class="media-body">
+		    <div class="article-metadata">
+		      <a class="mr-2" href="#">{{ FrontInventory.iid }}</a>
+		      <small class="text-muted">{{ FrontInventory.quantity }}</small>
+		    </div>
+		    <h2><a class="article-title" href="#">{{ FrontInventory.name }}</a></h2>
+		    <p class="article-content">{{ FrontInventory.price }}</p>
+		  </div>
+		</article>
+-->
+
+
+
+<!--
+class Sales(models.Model):
+    sid = models.IntegerField()
+    cid = models.OneToOneField(Customer, models.DO_NOTHING, db_column='cid', primary_key=True)
+    iid = models.ForeignKey(FrontInventory, models.DO_NOTHING, db_column='iid')
+    date = models.DateField()
+    quantity_sold = models.IntegerField(blank=True, null=True)
+    sale_total = models.DecimalField(max_digits=15, decimal_places=2, blank=True, null=True)
+    eid = models.ForeignKey(Employee, models.DO_NOTHING, db_column='eid', blank=True, null=True)
+-->
+
