@@ -12,3 +12,6 @@ The test-sample.sql statements can be run on your database to see some of the th
 
 # Run front end
 First, have python installed. Install Django as well. Create project location in a folder labeled "Dev". Edit settings.py file and make sure engine is set to MySQL, enter name of database, username, and password. Make sure MySQL port setting on this page is 3306. Navigate to folder with manage.py in terminal or virtual environment and run "python manage.py startserver", then "python manage.py makemigrations", then "python manage.py migrate" if no errors arise from the previous command. Now go to a browser and put "localhost:8000" as the URL and hit enter. Be sure it is accessing port 8000, not 8080. Now naviagte through the website in your browser as you would any other website.
+
+# Watch our Video Walkthrough
+https://youtu.be/SII2l6kNQKw
