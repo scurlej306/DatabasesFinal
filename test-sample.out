@@ -1,0 +1,1639 @@
+Test 1 Results:
+
+first_name,last_name,sum(sale_total)
+Henry,Young,73697.34
+Lamar,Cantu,56840.62
+Colin,Mckenzie,54704.50
+Griffin,Terry,45053.67
+Jin,Chase,40529.46
+Caesar,Meyers,36486.49
+Lara,Watkins,34529.70
+Marcia,Velasquez,34401.49
+Naomi,Burris,34184.68
+Gary,Cotton,33957.49
+Laith,Palmer,33907.71
+Robert,Mclaughlin,33786.61
+Baxter,Erickson,33369.69
+Thaddeus,Bender,33212.54
+Vladimir,Little,32703.57
+Curran,Cleveland,30787.36
+Murphy,Wilcox,30748.63
+Chaim,Blackburn,30489.66
+Barclay,Barnett,30397.69
+Leonard,Freeman,29799.76
+Rose,Dotson,27707.64
+Carlos,Collier,27691.31
+Vivien,Mullins,27585.33
+Ralph,Parks,27169.45
+Tanya,Hardy,26747.66
+Bradley,Kane,26103.73
+Brennan,Butler,23955.66
+Vance,Payne,23853.73
+Honorato,Wade,23779.62
+Melvin,Ward,23551.66
+Tobias,Whitaker,22305.54
+Emery,Black,22237.79
+Jakeem,Parks,21927.57
+Xanthus,Mckee,21869.73
+Channing,Velez,21383.64
+Castor,Bowman,21211.87
+Thaddeus,Hunter,21059.47
+Kenyon,Clark,20539.70
+Andrew,Hays,20120.79
+Reese,Small,19737.75
+Gareth,Leach,19387.68
+Candace,Hurley,19359.65
+Kennan,Christensen,19279.66
+Chase,Reeves,19238.79
+Brent,Ashley,19124.61
+Judah,Mullen,18743.69
+Megan,Hooper,18728.62
+Ifeoma,Roberts,18723.73
+Myra,Patel,18062.70
+Wallace,Beard,17710.69
+Craig,Beasley,17651.77
+Brenden,Booth,17579.76
+Galvin,Cleveland,17539.67
+Jade,Hayden,17509.82
+Fulton,Mcdowell,17450.70
+Neville,Barr,17409.58
+Henry,Odonnell,17354.78
+Reese,Moses,16748.58
+Harper,Small,16739.57
+Levi,House,16728.75
+James,Aguirre,16512.82
+Derek,Rivera,16409.72
+Gage,Mccormick,16399.73
+Yoshi,Justice,15687.65
+Kaitlin,Quinn,15450.64
+Azalia,Chen,14973.85
+Quyn,Norris,14643.71
+Steven,Dejesus,14097.64
+Quin,Shepard,14030.57
+Helen,Henderson,14029.78
+Ralph,Durham,13981.69
+Brennan,Miller,13909.74
+Avram,Spence,13781.77
+Aline,Livingston,13769.74
+Lois,Garrison,13689.80
+Aristotle,Lowe,13669.48
+Cadman,Holder,13424.68
+William,Tucker,13029.75
+Abbot,Parsons,12934.80
+Mercedes,Bartlett,12801.58
+Brenden,Lamb,12763.70
+Kelsey,Boyle,12570.83
+Wang,Hull,12539.84
+Keefe,Anderson,12444.85
+Francis,Wade,12237.79
+Roary,Small,12199.82
+Fitzgerald,Stanton,11831.79
+Wanda,Vance,11800.61
+Amethyst,Garcia,11764.53
+Allegra,Bell,11681.84
+Hoyt,Lewis,11277.71
+Honorato,Lowe,11272.78
+Charles,Franklin,11239.72
+Jolie,Peters,11199.70
+Kathleen,Nelson,10926.68
+Bevis,Walls,10909.83
+Denise,Cooper,10849.77
+Walker,Tyson,10849.70
+Maxwell,Bailey,10529.70
+Rooney,Sharpe,10494.69
+Prescott,Walters,10325.76
+Julian,Walsh,10263.65
+Trevor,Peterson,10159.78
+Amir,Fisher,10096.95
+Talon,Stephenson,10063.61
+Perry,Ruiz,10054.72
+Richard,Pace,9955.78
+Austin,Vega,9585.65
+Jason,Bolton,9474.88
+Renee,Wilkinson,9369.82
+Alexander,Steele,9294.72
+Nash,Chambers,9223.72
+Lance,Noel,9149.69
+Brielle,Smith,8979.80
+Levi,Robles,8664.79
+Chanda,Rowland,8549.91
+Carl,Kennedy,8379.72
+Rina,Kelley,8301.78
+Lara,Buckner,8067.73
+Brynne,Booth,7729.74
+Cadman,Wilkins,7663.62
+Slade,Merrill,7659.67
+Joel,Lancaster,7539.74
+Dustin,Scott,7265.63
+Arsenio,Terry,7229.75
+Keane,Porter,7043.69
+Herman,Brooks,6959.71
+Kaseem,Hendricks,6906.78
+Jakeem,Alvarado,6709.89
+Chester,Griffith,6613.78
+Lamar,Merrill,6483.85
+Fritz,Bates,6386.82
+Tanek,Glass,6289.81
+Jameson,Cervantes,6183.86
+Kennedy,Frank,6149.85
+Steven,Dodson,6124.71
+Ahmed,Barton,6036.94
+Ayanna,Knowles,6009.81
+Beverly,Hardy,5993.86
+Quynn,Chen,5899.86
+Candace,Carney,5879.77
+Coby,Hernandez,5869.91
+Fallon,Brennan,5699.55
+Jelani,Parsons,5654.68
+Noble,Lynn,5616.79
+Dustin,Byers,5507.80
+Denton,Vasquez,5327.75
+Brendan,Dodson,4992.91
+Aubrey,Wong,4946.85
+Herman,Phelps,4903.82
+Harding,Avery,4839.84
+Brock,Lambert,4704.86
+Amber,Branch,4597.76
+Gray,Porter,4549.88
+Flynn,Ellison,4199.77
+Rafael,Sykes,4012.77
+Harper,Rush,3998.91
+Silas,Gentry,3949.70
+Stacy,Dorsey,3899.89
+Neville,Chapman,3659.93
+Kermit,Mathews,3647.89
+Thaddeus,Cardenas,3522.75
+Maxwell,Roach,3309.82
+Caesar,Vega,3109.87
+Daniel,Mullins,3081.81
+Ciaran,Meyer,3016.79
+Adara,Hall,3009.85
+Yael,William,2999.73
+Moana,Lindsey,2949.83
+Igor,Hester,2910.80
+Darius,Ramirez,2869.73
+Kay,Guerra,2827.84
+Paki,Waller,2670.90
+Charity,Giles,2409.83
+Alea,Schwartz,2379.87
+Allistair,Cohen,2299.90
+Katelyn,Buckner,2221.89
+Cody,Bell,2201.99
+Declan,Graves,2139.94
+Quintessa,Gillespie,2123.91
+Myles,Mcdonald,1993.89
+Carson,Riddle,1939.90
+Trevor,Whitley,1832.00
+Gareth,Sargent,1814.93
+Brian,Koch,1701.88
+Wallace,Rutledge,1499.90
+Tyrone,Price,1487.83
+Teegan,Cameron,1324.86
+Gray,Fry,1264.85
+Alfreda,Alston,1219.94
+Keane,Malone,1199.97
+Tobias,Rocha,1199.97
+Wade,Lynn,1199.97
+Travis,Strickland,1161.92
+Curran,Cooke,914.94
+Cameran,Weeks,799.96
+Gary,Haney,699.93
+Emily,Valenzuela,463.93
+Owen,Foreman,97.98
+
+
+Test 2 Results:
+first_name,last_name,iid,name,date,quantity_sold,unit_price,sale_total
+Ulric,Booth,9,"Insignia 43in Class LED 1080p HDTV",2016-07-16,6,149.99,899.94
+
+
+Test 3 Results:
+first_name,last_name,sum(sale_total)
+Griffin,Terry,31199.83
+Baxter,Erickson,27899.88
+Chaim,Blackburn,23779.75
+Lamar,Cantu,22949.91
+Jakeem,Parks,17699.80
+Jin,Chase,16149.71
+Laith,Palmer,15899.85
+Ralph,Parks,14989.75
+Gage,Mccormick,14719.83
+Gary,Cotton,14047.78
+Emery,Black,12788.00
+Craig,Beasley,11999.90
+Henry,Odonnell,11509.90
+Quyn,Norris,11429.91
+Bradley,Kane,11399.92
+Chase,Reeves,11392.94
+Melvin,Ward,10799.91
+Aline,Livingston,10169.83
+Jolie,Peters,9399.81
+William,Tucker,9309.89
+Helen,Henderson,9149.89
+Gareth,Leach,9099.93
+Kaitlin,Quinn,8999.90
+Allegra,Bell,8981.93
+Avram,Spence,8809.81
+Judah,Mullen,8629.87
+Renee,Wilkinson,8609.88
+Chanda,Rowland,8549.91
+Tobias,Whitaker,8243.88
+Myra,Patel,7999.93
+Thaddeus,Hunter,7959.77
+Neville,Barr,7839.84
+Brent,Ashley,7763.78
+Marcia,Velasquez,7701.75
+Lois,Garrison,7359.91
+Levi,House,7198.86
+Richard,Pace,6917.89
+Lara,Watkins,6699.89
+Wang,Hull,6499.95
+Julian,Walsh,6439.81
+Vance,Payne,6399.92
+Carlos,Collier,6062.73
+Aristotle,Lowe,6039.74
+Ifeoma,Roberts,5949.85
+Honorato,Lowe,5593.00
+Hoyt,Lewis,5577.75
+Caesar,Meyers,5479.92
+Ayanna,Knowles,5409.87
+Brennan,Miller,5409.86
+Levi,Robles,5321.88
+Amethyst,Garcia,5289.78
+Nash,Chambers,5249.79
+Vladimir,Little,5203.88
+Barclay,Barnett,5199.96
+Rina,Kelley,5149.90
+Kathleen,Nelson,5129.80
+Roary,Small,4999.90
+Chester,Griffith,4993.88
+Slade,Merrill,4879.84
+Castor,Bowman,4792.95
+Denise,Cooper,4499.95
+Lance,Noel,4359.88
+Brock,Lambert,3899.97
+Candace,Carney,3599.91
+Vivien,Mullins,3595.85
+Fitzgerald,Stanton,3499.95
+Murphy,Wilcox,3464.92
+Cadman,Wilkins,3369.84
+Kermit,Mathews,3219.93
+Stacy,Dorsey,3199.92
+Curran,Cleveland,3167.82
+Kaseem,Hendricks,3159.87
+Amber,Branch,3145.88
+Henry,Young,3099.85
+Silas,Gentry,3049.79
+Brennan,Butler,2875.90
+Megan,Hooper,2798.92
+Mercedes,Bartlett,2611.84
+James,Aguirre,2599.98
+Coby,Hernandez,2569.93
+Denton,Vasquez,2563.88
+Herman,Brooks,2559.89
+Walker,Tyson,2509.91
+Brynne,Booth,2499.95
+Austin,Vega,2399.94
+Fallon,Brennan,2397.86
+Ahmed,Barton,2397.00
+Adara,Hall,2209.87
+Kenyon,Clark,2199.99
+Maxwell,Bailey,2149.90
+Declan,Graves,2139.94
+Jade,Hayden,2099.93
+Daniel,Mullins,2049.90
+Dustin,Scott,1999.95
+Azalia,Chen,1990.00
+Alea,Schwartz,1959.93
+Lara,Buckner,1947.86
+Caesar,Vega,1859.98
+Maxwell,Roach,1859.91
+Cody,Bell,1832.00
+Thaddeus,Cardenas,1749.93
+Jelani,Parsons,1734.87
+Kelsey,Boyle,1719.95
+Keane,Porter,1699.90
+Carl,Kennedy,1679.83
+Tanek,Glass,1659.96
+Kennedy,Frank,1649.95
+Gareth,Sargent,1599.96
+Alexander,Steele,1529.91
+Flynn,Ellison,1499.94
+Wallace,Rutledge,1499.90
+Channing,Velez,1439.92
+Brendan,Dodson,1393.00
+Quin,Shepard,1379.94
+Tanya,Hardy,1374.98
+Reese,Moses,1319.93
+Robert,Mclaughlin,1259.94
+Tobias,Rocha,1199.97
+Moana,Lindsey,1199.90
+Tyrone,Price,1193.89
+Ralph,Durham,1115.87
+Cadman,Holder,1109.97
+Yoshi,Justice,1099.89
+Gray,Fry,1019.90
+Brian,Koch,999.96
+Wanda,Vance,999.95
+Harper,Small,999.90
+Arsenio,Terry,909.92
+Igor,Hester,896.98
+Charles,Franklin,849.95
+Derek,Rivera,839.96
+Myles,Mcdonald,839.96
+Gary,Haney,699.93
+Abbot,Parsons,689.97
+Kennan,Christensen,674.91
+Perry,Ruiz,609.95
+Travis,Strickland,599.94
+Rafael,Sykes,599.92
+Steven,Dejesus,529.99
+Aubrey,Wong,499.98
+Dustin,Byers,499.98
+Brenden,Booth,479.97
+Jason,Bolton,374.95
+Colin,Mckenzie,359.98
+Neville,Chapman,329.99
+Prescott,Walters,305.97
+Darius,Ramirez,299.96
+Brenden,Lamb,259.96
+Beverly,Hardy,229.00
+Bevis,Walls,169.99
+Reese,Small,169.99
+Alfreda,Alston,169.99
+Katelyn,Buckner,149.99
+Noble,Lynn,129.98
+Francis,Wade,121.99
+Owen,Foreman,97.98
+
+
+
+Test 4 Results:
+iid,name,num_sold
+29,"Klipsch Reference Series Soundbar System",23
+53,"Micrsofot Surface Pro Typecover Black",22
+22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",22
+2,"Sharp 40in LED 1080p Smart HDTV Roku TV",21
+61,"Microsoft Surface Pro Signature Type Cover Cobalt",20
+17,"Samsung 65in Class LED NU8000 Series 2160p Smart 4K UHD TV with HDR",19
+57,"Micrsofot Surface Pen Black",19
+59,"Micrsofot Surface Pen Cobalt",19
+36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",19
+7,"Insignia 32in Class LED 720p HDTV",19
+39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",19
+55,"Microsfot Wireless Comfort Desktop 5050 Curved Keyboard and Mouse Black",19
+33,"Lenovo Legion 530 15.6in i7/16GB/1050ti/1TB",18
+26,"Bose Bass Module 500 Subwoofer Black",18
+42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",18
+62,"Microsoft Surface Go Signature Type Cover Burgandy",18
+32,"Lenovo Legion 530 15.6in i7/8GB/1050ti/1TB",18
+34,"ASUS 14in AMD A6 4GB/AMD Radeon R4/500GB",17
+3,"Westinghouse 49in Class LED 1080p HDTV",17
+12,"LG 28in Class LED 720p HDTV",17
+5,"Insignia 43in Class LED 2160p Smart 4K UHD TV with HDR Fire TV Edition",17
+37,"HP 14in Chromebook Intel Celeron/ 4GB/ 32GB",17
+23,"Bose Bass Module 700 Wireless Subwoofer Black",17
+40,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 555X/256GB SSD",17
+25,"Bose SoundTouch 300 Soundbar Black",16
+27,"Onkyo 4K Home Theater System Black",16
+43,"HP Spectre x360 i7/8GB/256GB SSD ",16
+4,"LG 70in Class LED UK6190 Series 2160p Smart 4K UHD TV with HDR",16
+45,"Apple Macbook 12in i3/8GB/265GB Grey",16
+30,"Bose Bass Module 700 Subwoofer Arctic White",16
+54,"Microsoft Surface Arc Mouse Black",16
+15,"Toshiba 43in Class LED 2160p Smart 4K UH TV with HDR Fire TV Edition",16
+8,"Insignia 32 Class LED 720p Smart HDTV Fire TV Edition",16
+64,"Microsoft Surface Go Signature Type Cover Platinum",16
+9,"Insignia 43in Class LED 1080p HDTV",15
+49,"Alienware 17.3in Gaming Laptop i7/16GB/GTX 1070/1TB/256SSD",15
+50,"Microsoft Surface Dock",15
+11,"Sharp 24in Class LED 720p Smart HDTV Roku TV",15
+28,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose White",15
+16,"Insignia 19in Class LED 720p HDTV",15
+65,"Microsoft Surface Go Signature Type Cover Black",14
+18,"Samsung 50in Class LED NU6900 Series 2160p Smart 4K UHD TV with HDR",14
+19,"VIZIO 24in Class LED Dseries 1080p Smart HDTV",14
+35,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 560X/512GB SSD",14
+51,"Microsoft Surface Pro Signature Type Cover Platinum",14
+20,"VIZIO Soundbar System Wireless Subwoofer Amplifier Black",14
+60,"Microsoft Surface Pro Signature Type Cover Burgandy",14
+6,"LG 50in Class LED UK6090PUA Series 2160p Smart 4k UHD TV with HDR",14
+1,"Insignia 50in Class LED 2160p Smart 4K UHD TV with HDR",13
+10,"VIZIO 32in Class LED D-Series 1080p Smart HDTV",13
+38,"HP 17.3in Laptop i5/8GB/1TB HD",13
+31,"Microsoft Surface Book 2 13.5in i5/8GB/256iGPU",13
+52,"Micrsofot Surface Pro 6 12.3in i5/8gb/128SSD Platinum",12
+14,"Insignia 55in Class LED 1080p HDTV",12
+46,"Dell 11.6in Chromebook Intel Celeron 4GB/16GB",12
+44,"Apple Macbook 12in i3/8GB/265GB Gold",11
+21,"VIZIO Soundbar System Wireless Subwoofer Amplifier Silver",11
+47,"Microsoft Surface Pro 6 12.3in i5/8gb/128GB SSD Black",11
+48,"Samsung 11.6in Chromebook Intel Celeron 4GB/32GB",11
+66,"Microsoft Surface Go 10in Intel Pentium Godl 4GB/64GB",10
+63,"Microsoft Surface Go Signature Type Cover Cobalt",9
+24,"Yamaha 725W Home Theater System Black",9
+13,"Insignia 39in LED 1080p Smart HDTV Fire TV Edition",8
+58,"Micrsofot Surface Pen Platinum",7
+41,"Apple MacBook 12in Intel m3/8GB/256GB",6
+56,"Micrsofot Surface Pen Burgandy",6
+
+
+Test 5 Results:
+store_num,store_sales
+7,134
+8,112
+11,109
+9,99
+4,98
+3,88
+10,77
+1,77
+2,73
+6,70
+5,62
+
+
+
+Test 6 Results:
+store_num,money_made
+7,355221.87
+8,317969.47
+11,282524.61
+4,260673.11
+10,221603.01
+6,221342.76
+1,213411.75
+9,212757.04
+3,208178.67
+2,197644.36
+5,117669.93
+
+
+
+Test 7 Results:
+eid,first_name,last_name,num_sales
+48,Carlos,Collier,12
+196,Henry,Young,12
+114,Vivien,Mullins,11
+40,Aristotle,Lowe,10
+35,Thaddeus,Bender,10
+100,Colin,Mckenzie,10
+37,Thaddeus,Hunter,10
+69,Caesar,Meyers,10
+22,Reese,Moses,9
+2,Laith,Palmer,9
+58,Curran,Cleveland,9
+21,Brent,Ashley,9
+70,Cadman,Wilkins,8
+7,Gary,Cotton,8
+71,Steven,Dejesus,8
+167,Robert,Mclaughlin,8
+192,Kathleen,Nelson,8
+120,Kelsey,Boyle,8
+137,Jin,Chase,8
+42,Murphy,Wilcox,8
+139,Quin,Shepard,8
+92,Rooney,Sharpe,8
+108,Ralph,Parks,8
+197,Rina,Kelley,8
+150,Kaitlin,Quinn,7
+191,Myra,Patel,7
+57,Brennan,Butler,7
+81,Bradley,Kane,7
+186,Megan,Hooper,7
+194,Slade,Merrill,7
+74,Tobias,Whitaker,7
+106,Tanya,Hardy,7
+3,Honorato,Wade,7
+27,Jakeem,Parks,7
+83,Levi,Robles,7
+107,Amethyst,Garcia,7
+60,Walker,Tyson,7
+76,Judah,Mullen,7
+156,Rose,Dotson,7
+61,Lamar,Cantu,7
+101,Amber,Branch,7
+157,Fallon,Brennan,7
+62,Steven,Dodson,6
+118,Castor,Bowman,6
+126,Lara,Watkins,6
+134,Candace,Hurley,6
+142,Francis,Wade,6
+23,Nash,Chambers,6
+95,Rafael,Sykes,6
+176,Avram,Spence,6
+16,Prescott,Walters,6
+32,Gage,Mccormick,6
+64,Perry,Ruiz,6
+72,Wallace,Beard,6
+80,Tanek,Glass,6
+88,Cadman,Holder,6
+104,Marcia,Velasquez,6
+160,Ralph,Durham,6
+168,Azalia,Chen,6
+177,Quyn,Norris,6
+1,Harper,Small,6
+17,Vladimir,Little,6
+73,Talon,Stephenson,6
+178,Mercedes,Bartlett,6
+34,Herman,Brooks,6
+98,Abbot,Parsons,6
+122,Brennan,Miller,6
+51,Dustin,Byers,6
+67,Julian,Walsh,6
+99,Arsenio,Terry,6
+84,Reese,Small,6
+116,Keane,Porter,6
+132,Fulton,Mcdowell,6
+172,Galvin,Cleveland,6
+181,Wanda,Vance,6
+5,Barclay,Barnett,6
+77,Brenden,Lamb,6
+93,Channing,Velez,6
+109,Noble,Lynn,6
+30,Gareth,Leach,5
+46,Chaim,Blackburn,5
+78,Griffin,Terry,5
+175,Austin,Vega,5
+199,Yoshi,Justice,5
+15,Dustin,Scott,5
+31,Bevis,Walls,5
+39,Jelani,Parsons,5
+87,Richard,Pace,5
+111,Baxter,Erickson,5
+184,Levi,House,5
+24,Kennan,Christensen,5
+56,Fritz,Bates,5
+185,Helen,Henderson,5
+9,Carl,Kennedy,5
+25,Melvin,Ward,5
+97,Neville,Barr,5
+105,Jolie,Peters,5
+121,Hoyt,Lewis,5
+18,Jameson,Cervantes,5
+26,Chase,Reeves,5
+50,Maxwell,Roach,5
+90,Flynn,Ellison,5
+138,Craig,Beasley,5
+154,Chester,Griffith,5
+11,Derek,Rivera,5
+115,Naomi,Burris,5
+171,Brenden,Booth,5
+12,Maxwell,Bailey,5
+20,Charles,Franklin,5
+28,Igor,Hester,5
+36,Henry,Odonnell,5
+68,Denton,Vasquez,5
+164,Ifeoma,Roberts,5
+45,Kenyon,Clark,5
+53,William,Tucker,5
+133,Emery,Black,5
+14,Kaseem,Hendricks,4
+38,Myles,Mcdonald,4
+110,Fitzgerald,Stanton,4
+63,Alexander,Steele,4
+143,Ciaran,Meyer,4
+112,Lance,Noel,4
+128,Aubrey,Wong,4
+136,Yael,William,4
+144,Wang,Hull,4
+41,Silas,Gentry,4
+65,Harding,Avery,4
+145,Darius,Ramirez,4
+82,James,Aguirre,4
+146,Denise,Cooper,4
+162,Lara,Buckner,4
+195,Daniel,Mullins,4
+43,Andrew,Hays,4
+59,Herman,Phelps,4
+131,Brynne,Booth,4
+147,Brielle,Smith,4
+155,Beverly,Hardy,4
+163,Honorato,Lowe,4
+140,Lois,Garrison,4
+148,Renee,Wilkinson,4
+13,Trevor,Peterson,4
+29,Ahmed,Barton,4
+85,Vance,Payne,4
+141,Aline,Livingston,4
+149,Brian,Koch,4
+182,Katelyn,Buckner,4
+198,Keefe,Anderson,4
+86,Gray,Porter,3
+102,Allegra,Bell,3
+158,Moana,Lindsey,3
+166,Lamar,Merrill,3
+183,Paki,Waller,3
+103,Stacy,Dorsey,3
+119,Quintessa,Gillespie,3
+127,Joel,Lancaster,3
+151,Jade,Hayden,3
+159,Gareth,Sargent,3
+200,Xanthus,Mckee,3
+152,Quynn,Chen,3
+193,Declan,Graves,3
+33,Kermit,Mathews,3
+49,Brock,Lambert,3
+89,Brendan,Dodson,3
+113,Thaddeus,Cardenas,3
+129,Coby,Hernandez,3
+161,Leonard,Freeman,3
+66,Travis,Strickland,3
+170,Kay,Guerra,3
+187,Candace,Carney,3
+91,Kennedy,Frank,3
+123,Harper,Rush,3
+4,Tyrone,Price,3
+44,Caesar,Vega,3
+52,Carson,Riddle,3
+124,Neville,Chapman,3
+125,Adara,Hall,3
+174,Ayanna,Knowles,3
+47,Cody,Bell,2
+55,Curran,Cooke,2
+79,Jakeem,Alvarado,2
+135,Roary,Small,2
+153,Charity,Giles,2
+169,Alfreda,Alston,2
+10,Gray,Fry,2
+19,Jason,Bolton,2
+180,Amir,Fisher,2
+188,Alea,Schwartz,2
+189,Emily,Valenzuela,2
+165,Teegan,Cameron,2
+190,Chanda,Rowland,2
+6,Tobias,Rocha,1
+54,Wade,Lynn,1
+94,Trevor,Whitley,1
+8,Gary,Haney,1
+96,Wallace,Rutledge,1
+130,Keane,Malone,1
+179,Allistair,Cohen,1
+75,Owen,Foreman,1
+117,Cameran,Weeks,1
+
+
+Test 8 Results:
+eid,first_name,last_name,iid,name,num_sold
+1,Harper,Small,12,"LG 28in Class LED 720p HDTV",1
+1,Harper,Small,13,"Insignia 39in LED 1080p Smart HDTV Fire TV Edition",1
+1,Harper,Small,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",1
+1,Harper,Small,28,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose White",1
+1,Harper,Small,30,"Bose Bass Module 700 Subwoofer Arctic White",1
+1,Harper,Small,34,"ASUS 14in AMD A6 4GB/AMD Radeon R4/500GB",1
+2,Laith,Palmer,4,"LG 70in Class LED UK6190 Series 2160p Smart 4K UHD TV with HDR",1
+2,Laith,Palmer,16,"Insignia 19in Class LED 720p HDTV",1
+2,Laith,Palmer,26,"Bose Bass Module 500 Subwoofer Black",1
+2,Laith,Palmer,28,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose White",1
+2,Laith,Palmer,35,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 560X/512GB SSD",1
+2,Laith,Palmer,44,"Apple Macbook 12in i3/8GB/265GB Gold",1
+2,Laith,Palmer,52,"Micrsofot Surface Pro 6 12.3in i5/8gb/128SSD Platinum",1
+2,Laith,Palmer,53,"Micrsofot Surface Pro Typecover Black",1
+2,Laith,Palmer,64,"Microsoft Surface Go Signature Type Cover Platinum",1
+3,Honorato,Wade,15,"Toshiba 43in Class LED 2160p Smart 4K UH TV with HDR Fire TV Edition",1
+3,Honorato,Wade,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",1
+3,Honorato,Wade,36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",1
+3,Honorato,Wade,42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",1
+3,Honorato,Wade,45,"Apple Macbook 12in i3/8GB/265GB Grey",1
+3,Honorato,Wade,53,"Micrsofot Surface Pro Typecover Black",1
+3,Honorato,Wade,59,"Micrsofot Surface Pen Cobalt",1
+4,Tyrone,Price,19,"VIZIO 24in Class LED Dseries 1080p Smart HDTV",1
+4,Tyrone,Price,55,"Microsfot Wireless Comfort Desktop 5050 Curved Keyboard and Mouse Black",2
+5,Barclay,Barnett,4,"LG 70in Class LED UK6190 Series 2160p Smart 4K UHD TV with HDR",1
+5,Barclay,Barnett,31,"Microsoft Surface Book 2 13.5in i5/8GB/256iGPU",1
+5,Barclay,Barnett,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+5,Barclay,Barnett,43,"HP Spectre x360 i7/8GB/256GB SSD ",1
+5,Barclay,Barnett,44,"Apple Macbook 12in i3/8GB/265GB Gold",1
+5,Barclay,Barnett,45,"Apple Macbook 12in i3/8GB/265GB Grey",1
+6,Tobias,Rocha,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+7,Gary,Cotton,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",1
+7,Gary,Cotton,16,"Insignia 19in Class LED 720p HDTV",1
+7,Gary,Cotton,17,"Samsung 65in Class LED NU8000 Series 2160p Smart 4K UHD TV with HDR",1
+7,Gary,Cotton,26,"Bose Bass Module 500 Subwoofer Black",1
+7,Gary,Cotton,33,"Lenovo Legion 530 15.6in i7/16GB/1050ti/1TB",1
+7,Gary,Cotton,41,"Apple MacBook 12in Intel m3/8GB/256GB",1
+7,Gary,Cotton,45,"Apple Macbook 12in i3/8GB/265GB Grey",1
+7,Gary,Cotton,60,"Microsoft Surface Pro Signature Type Cover Burgandy",1
+8,Gary,Haney,12,"LG 28in Class LED 720p HDTV",1
+9,Carl,Kennedy,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",1
+9,Carl,Kennedy,7,"Insignia 32in Class LED 720p HDTV",1
+9,Carl,Kennedy,30,"Bose Bass Module 700 Subwoofer Arctic White",1
+9,Carl,Kennedy,38,"HP 17.3in Laptop i5/8GB/1TB HD",1
+9,Carl,Kennedy,58,"Micrsofot Surface Pen Platinum",1
+10,Gray,Fry,55,"Microsfot Wireless Comfort Desktop 5050 Curved Keyboard and Mouse Black",1
+10,Gray,Fry,62,"Microsoft Surface Go Signature Type Cover Burgandy",1
+11,Derek,Rivera,6,"LG 50in Class LED UK6090PUA Series 2160p Smart 4k UHD TV with HDR",1
+11,Derek,Rivera,28,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose White",1
+11,Derek,Rivera,37,"HP 14in Chromebook Intel Celeron/ 4GB/ 32GB",1
+11,Derek,Rivera,40,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 555X/256GB SSD",1
+11,Derek,Rivera,50,"Microsoft Surface Dock",1
+12,Maxwell,Bailey,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",1
+12,Maxwell,Bailey,23,"Bose Bass Module 700 Wireless Subwoofer Black",1
+12,Maxwell,Bailey,36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",1
+12,Maxwell,Bailey,37,"HP 14in Chromebook Intel Celeron/ 4GB/ 32GB",1
+12,Maxwell,Bailey,59,"Micrsofot Surface Pen Cobalt",1
+13,Trevor,Peterson,27,"Onkyo 4K Home Theater System Black",1
+13,Trevor,Peterson,30,"Bose Bass Module 700 Subwoofer Arctic White",1
+13,Trevor,Peterson,36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",1
+13,Trevor,Peterson,53,"Micrsofot Surface Pro Typecover Black",1
+14,Kaseem,Hendricks,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",1
+14,Kaseem,Hendricks,9,"Insignia 43in Class LED 1080p HDTV",1
+14,Kaseem,Hendricks,34,"ASUS 14in AMD A6 4GB/AMD Radeon R4/500GB",1
+14,Kaseem,Hendricks,52,"Micrsofot Surface Pro 6 12.3in i5/8gb/128SSD Platinum",1
+15,Dustin,Scott,26,"Bose Bass Module 500 Subwoofer Black",1
+15,Dustin,Scott,29,"Klipsch Reference Series Soundbar System",1
+15,Dustin,Scott,50,"Microsoft Surface Dock",1
+15,Dustin,Scott,55,"Microsfot Wireless Comfort Desktop 5050 Curved Keyboard and Mouse Black",1
+15,Dustin,Scott,60,"Microsoft Surface Pro Signature Type Cover Burgandy",1
+16,Prescott,Walters,4,"LG 70in Class LED UK6190 Series 2160p Smart 4K UHD TV with HDR",1
+16,Prescott,Walters,6,"LG 50in Class LED UK6090PUA Series 2160p Smart 4k UHD TV with HDR",1
+16,Prescott,Walters,8,"Insignia 32 Class LED 720p Smart HDTV Fire TV Edition",1
+16,Prescott,Walters,25,"Bose SoundTouch 300 Soundbar Black",1
+16,Prescott,Walters,29,"Klipsch Reference Series Soundbar System",1
+16,Prescott,Walters,65,"Microsoft Surface Go Signature Type Cover Black",1
+17,Vladimir,Little,7,"Insignia 32in Class LED 720p HDTV",1
+17,Vladimir,Little,12,"LG 28in Class LED 720p HDTV",1
+17,Vladimir,Little,25,"Bose SoundTouch 300 Soundbar Black",1
+17,Vladimir,Little,42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",1
+17,Vladimir,Little,45,"Apple Macbook 12in i3/8GB/265GB Grey",1
+17,Vladimir,Little,65,"Microsoft Surface Go Signature Type Cover Black",1
+18,Jameson,Cervantes,15,"Toshiba 43in Class LED 2160p Smart 4K UH TV with HDR Fire TV Edition",1
+18,Jameson,Cervantes,21,"VIZIO Soundbar System Wireless Subwoofer Amplifier Silver",2
+18,Jameson,Cervantes,36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",1
+18,Jameson,Cervantes,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+19,Jason,Bolton,45,"Apple Macbook 12in i3/8GB/265GB Grey",1
+19,Jason,Bolton,57,"Micrsofot Surface Pen Black",1
+20,Charles,Franklin,8,"Insignia 32 Class LED 720p Smart HDTV Fire TV Edition",1
+20,Charles,Franklin,16,"Insignia 19in Class LED 720p HDTV",1
+20,Charles,Franklin,23,"Bose Bass Module 700 Wireless Subwoofer Black",1
+20,Charles,Franklin,43,"HP Spectre x360 i7/8GB/256GB SSD ",1
+20,Charles,Franklin,53,"Micrsofot Surface Pro Typecover Black",1
+21,Brent,Ashley,11,"Sharp 24in Class LED 720p Smart HDTV Roku TV",1
+21,Brent,Ashley,14,"Insignia 55in Class LED 1080p HDTV",1
+21,Brent,Ashley,29,"Klipsch Reference Series Soundbar System",1
+21,Brent,Ashley,33,"Lenovo Legion 530 15.6in i7/16GB/1050ti/1TB",1
+21,Brent,Ashley,34,"ASUS 14in AMD A6 4GB/AMD Radeon R4/500GB",1
+21,Brent,Ashley,46,"Dell 11.6in Chromebook Intel Celeron 4GB/16GB",1
+21,Brent,Ashley,49,"Alienware 17.3in Gaming Laptop i7/16GB/GTX 1070/1TB/256SSD",1
+21,Brent,Ashley,50,"Microsoft Surface Dock",1
+21,Brent,Ashley,64,"Microsoft Surface Go Signature Type Cover Platinum",1
+22,Reese,Moses,8,"Insignia 32 Class LED 720p Smart HDTV Fire TV Edition",1
+22,Reese,Moses,12,"LG 28in Class LED 720p HDTV",1
+22,Reese,Moses,19,"VIZIO 24in Class LED Dseries 1080p Smart HDTV",1
+22,Reese,Moses,27,"Onkyo 4K Home Theater System Black",1
+22,Reese,Moses,30,"Bose Bass Module 700 Subwoofer Arctic White",1
+22,Reese,Moses,33,"Lenovo Legion 530 15.6in i7/16GB/1050ti/1TB",1
+22,Reese,Moses,46,"Dell 11.6in Chromebook Intel Celeron 4GB/16GB",1
+22,Reese,Moses,53,"Micrsofot Surface Pro Typecover Black",1
+22,Reese,Moses,66,"Microsoft Surface Go 10in Intel Pentium Godl 4GB/64GB",1
+23,Nash,Chambers,11,"Sharp 24in Class LED 720p Smart HDTV Roku TV",1
+23,Nash,Chambers,16,"Insignia 19in Class LED 720p HDTV",1
+23,Nash,Chambers,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",1
+23,Nash,Chambers,26,"Bose Bass Module 500 Subwoofer Black",1
+23,Nash,Chambers,65,"Microsoft Surface Go Signature Type Cover Black",1
+23,Nash,Chambers,66,"Microsoft Surface Go 10in Intel Pentium Godl 4GB/64GB",1
+24,Kennan,Christensen,1,"Insignia 50in Class LED 2160p Smart 4K UHD TV with HDR",1
+24,Kennan,Christensen,37,"HP 14in Chromebook Intel Celeron/ 4GB/ 32GB",1
+24,Kennan,Christensen,44,"Apple Macbook 12in i3/8GB/265GB Gold",1
+24,Kennan,Christensen,49,"Alienware 17.3in Gaming Laptop i7/16GB/GTX 1070/1TB/256SSD",1
+24,Kennan,Christensen,58,"Micrsofot Surface Pen Platinum",1
+25,Melvin,Ward,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+25,Melvin,Ward,43,"HP Spectre x360 i7/8GB/256GB SSD ",1
+25,Melvin,Ward,44,"Apple Macbook 12in i3/8GB/265GB Gold",1
+25,Melvin,Ward,51,"Microsoft Surface Pro Signature Type Cover Platinum",1
+25,Melvin,Ward,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+26,Chase,Reeves,25,"Bose SoundTouch 300 Soundbar Black",1
+26,Chase,Reeves,31,"Microsoft Surface Book 2 13.5in i5/8GB/256iGPU",1
+26,Chase,Reeves,32,"Lenovo Legion 530 15.6in i7/8GB/1050ti/1TB",1
+26,Chase,Reeves,38,"HP 17.3in Laptop i5/8GB/1TB HD",1
+26,Chase,Reeves,55,"Microsfot Wireless Comfort Desktop 5050 Curved Keyboard and Mouse Black",1
+27,Jakeem,Parks,13,"Insignia 39in LED 1080p Smart HDTV Fire TV Edition",2
+27,Jakeem,Parks,16,"Insignia 19in Class LED 720p HDTV",1
+27,Jakeem,Parks,20,"VIZIO Soundbar System Wireless Subwoofer Amplifier Black",1
+27,Jakeem,Parks,40,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 555X/256GB SSD",1
+27,Jakeem,Parks,43,"HP Spectre x360 i7/8GB/256GB SSD ",1
+27,Jakeem,Parks,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+28,Igor,Hester,34,"ASUS 14in AMD A6 4GB/AMD Radeon R4/500GB",1
+28,Igor,Hester,52,"Micrsofot Surface Pro 6 12.3in i5/8gb/128SSD Platinum",1
+28,Igor,Hester,55,"Microsfot Wireless Comfort Desktop 5050 Curved Keyboard and Mouse Black",2
+28,Igor,Hester,59,"Micrsofot Surface Pen Cobalt",1
+29,Ahmed,Barton,47,"Microsoft Surface Pro 6 12.3in i5/8gb/128GB SSD Black",1
+29,Ahmed,Barton,48,"Samsung 11.6in Chromebook Intel Celeron 4GB/32GB",1
+29,Ahmed,Barton,52,"Micrsofot Surface Pro 6 12.3in i5/8gb/128SSD Platinum",1
+29,Ahmed,Barton,53,"Micrsofot Surface Pro Typecover Black",1
+30,Gareth,Leach,5,"Insignia 43in Class LED 2160p Smart 4K UHD TV with HDR Fire TV Edition",1
+30,Gareth,Leach,17,"Samsung 65in Class LED NU8000 Series 2160p Smart 4K UHD TV with HDR",1
+30,Gareth,Leach,38,"HP 17.3in Laptop i5/8GB/1TB HD",1
+30,Gareth,Leach,44,"Apple Macbook 12in i3/8GB/265GB Gold",1
+30,Gareth,Leach,51,"Microsoft Surface Pro Signature Type Cover Platinum",1
+31,Bevis,Walls,6,"LG 50in Class LED UK6090PUA Series 2160p Smart 4k UHD TV with HDR",1
+31,Bevis,Walls,8,"Insignia 32 Class LED 720p Smart HDTV Fire TV Edition",1
+31,Bevis,Walls,29,"Klipsch Reference Series Soundbar System",1
+31,Bevis,Walls,35,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 560X/512GB SSD",1
+31,Bevis,Walls,36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",1
+32,Gage,Mccormick,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",2
+32,Gage,Mccormick,19,"VIZIO 24in Class LED Dseries 1080p Smart HDTV",1
+32,Gage,Mccormick,20,"VIZIO Soundbar System Wireless Subwoofer Amplifier Black",1
+32,Gage,Mccormick,23,"Bose Bass Module 700 Wireless Subwoofer Black",1
+32,Gage,Mccormick,45,"Apple Macbook 12in i3/8GB/265GB Grey",1
+33,Kermit,Mathews,24,"Yamaha 725W Home Theater System Black",1
+33,Kermit,Mathews,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+33,Kermit,Mathews,64,"Microsoft Surface Go Signature Type Cover Platinum",1
+34,Herman,Brooks,4,"LG 70in Class LED UK6190 Series 2160p Smart 4K UHD TV with HDR",1
+34,Herman,Brooks,10,"VIZIO 32in Class LED D-Series 1080p Smart HDTV",1
+34,Herman,Brooks,16,"Insignia 19in Class LED 720p HDTV",1
+34,Herman,Brooks,24,"Yamaha 725W Home Theater System Black",1
+34,Herman,Brooks,29,"Klipsch Reference Series Soundbar System",1
+34,Herman,Brooks,63,"Microsoft Surface Go Signature Type Cover Cobalt",1
+35,Thaddeus,Bender,1,"Insignia 50in Class LED 2160p Smart 4K UHD TV with HDR",1
+35,Thaddeus,Bender,9,"Insignia 43in Class LED 1080p HDTV",1
+35,Thaddeus,Bender,16,"Insignia 19in Class LED 720p HDTV",1
+35,Thaddeus,Bender,17,"Samsung 65in Class LED NU8000 Series 2160p Smart 4K UHD TV with HDR",1
+35,Thaddeus,Bender,31,"Microsoft Surface Book 2 13.5in i5/8GB/256iGPU",1
+35,Thaddeus,Bender,32,"Lenovo Legion 530 15.6in i7/8GB/1050ti/1TB",1
+35,Thaddeus,Bender,33,"Lenovo Legion 530 15.6in i7/16GB/1050ti/1TB",1
+35,Thaddeus,Bender,44,"Apple Macbook 12in i3/8GB/265GB Gold",1
+35,Thaddeus,Bender,45,"Apple Macbook 12in i3/8GB/265GB Grey",1
+35,Thaddeus,Bender,63,"Microsoft Surface Go Signature Type Cover Cobalt",1
+36,Henry,Odonnell,3,"Westinghouse 49in Class LED 1080p HDTV",1
+36,Henry,Odonnell,40,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 555X/256GB SSD",1
+36,Henry,Odonnell,46,"Dell 11.6in Chromebook Intel Celeron 4GB/16GB",1
+36,Henry,Odonnell,49,"Alienware 17.3in Gaming Laptop i7/16GB/GTX 1070/1TB/256SSD",1
+36,Henry,Odonnell,62,"Microsoft Surface Go Signature Type Cover Burgandy",1
+37,Thaddeus,Hunter,3,"Westinghouse 49in Class LED 1080p HDTV",1
+37,Thaddeus,Hunter,11,"Sharp 24in Class LED 720p Smart HDTV Roku TV",1
+37,Thaddeus,Hunter,21,"VIZIO Soundbar System Wireless Subwoofer Amplifier Silver",1
+37,Thaddeus,Hunter,26,"Bose Bass Module 500 Subwoofer Black",1
+37,Thaddeus,Hunter,32,"Lenovo Legion 530 15.6in i7/8GB/1050ti/1TB",2
+37,Thaddeus,Hunter,37,"HP 14in Chromebook Intel Celeron/ 4GB/ 32GB",2
+37,Thaddeus,Hunter,38,"HP 17.3in Laptop i5/8GB/1TB HD",1
+37,Thaddeus,Hunter,59,"Micrsofot Surface Pen Cobalt",1
+38,Myles,Mcdonald,10,"VIZIO 32in Class LED D-Series 1080p Smart HDTV",1
+38,Myles,Mcdonald,13,"Insignia 39in LED 1080p Smart HDTV Fire TV Edition",1
+38,Myles,Mcdonald,37,"HP 14in Chromebook Intel Celeron/ 4GB/ 32GB",1
+38,Myles,Mcdonald,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+39,Jelani,Parsons,11,"Sharp 24in Class LED 720p Smart HDTV Roku TV",1
+39,Jelani,Parsons,14,"Insignia 55in Class LED 1080p HDTV",1
+39,Jelani,Parsons,19,"VIZIO 24in Class LED Dseries 1080p Smart HDTV",1
+39,Jelani,Parsons,20,"VIZIO Soundbar System Wireless Subwoofer Amplifier Black",1
+39,Jelani,Parsons,57,"Micrsofot Surface Pen Black",1
+40,Aristotle,Lowe,1,"Insignia 50in Class LED 2160p Smart 4K UHD TV with HDR",1
+40,Aristotle,Lowe,6,"LG 50in Class LED UK6090PUA Series 2160p Smart 4k UHD TV with HDR",1
+40,Aristotle,Lowe,9,"Insignia 43in Class LED 1080p HDTV",1
+40,Aristotle,Lowe,12,"LG 28in Class LED 720p HDTV",1
+40,Aristotle,Lowe,16,"Insignia 19in Class LED 720p HDTV",1
+40,Aristotle,Lowe,18,"Samsung 50in Class LED NU6900 Series 2160p Smart 4K UHD TV with HDR",1
+40,Aristotle,Lowe,19,"VIZIO 24in Class LED Dseries 1080p Smart HDTV",1
+40,Aristotle,Lowe,23,"Bose Bass Module 700 Wireless Subwoofer Black",1
+40,Aristotle,Lowe,34,"ASUS 14in AMD A6 4GB/AMD Radeon R4/500GB",1
+40,Aristotle,Lowe,54,"Microsoft Surface Arc Mouse Black",1
+41,Silas,Gentry,9,"Insignia 43in Class LED 1080p HDTV",1
+41,Silas,Gentry,12,"LG 28in Class LED 720p HDTV",1
+41,Silas,Gentry,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",1
+41,Silas,Gentry,53,"Micrsofot Surface Pro Typecover Black",1
+42,Murphy,Wilcox,33,"Lenovo Legion 530 15.6in i7/16GB/1050ti/1TB",2
+42,Murphy,Wilcox,37,"HP 14in Chromebook Intel Celeron/ 4GB/ 32GB",1
+42,Murphy,Wilcox,40,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 555X/256GB SSD",1
+42,Murphy,Wilcox,42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",1
+42,Murphy,Wilcox,56,"Micrsofot Surface Pen Burgandy",1
+42,Murphy,Wilcox,57,"Micrsofot Surface Pen Black",1
+42,Murphy,Wilcox,62,"Microsoft Surface Go Signature Type Cover Burgandy",1
+43,Andrew,Hays,10,"VIZIO 32in Class LED D-Series 1080p Smart HDTV",1
+43,Andrew,Hays,26,"Bose Bass Module 500 Subwoofer Black",1
+43,Andrew,Hays,30,"Bose Bass Module 700 Subwoofer Arctic White",1
+43,Andrew,Hays,31,"Microsoft Surface Book 2 13.5in i5/8GB/256iGPU",1
+44,Caesar,Vega,5,"Insignia 43in Class LED 2160p Smart 4K UHD TV with HDR Fire TV Edition",1
+44,Caesar,Vega,32,"Lenovo Legion 530 15.6in i7/8GB/1050ti/1TB",1
+44,Caesar,Vega,65,"Microsoft Surface Go Signature Type Cover Black",1
+45,Kenyon,Clark,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",2
+45,Kenyon,Clark,40,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 555X/256GB SSD",2
+45,Kenyon,Clark,62,"Microsoft Surface Go Signature Type Cover Burgandy",1
+46,Chaim,Blackburn,5,"Insignia 43in Class LED 2160p Smart 4K UHD TV with HDR Fire TV Edition",1
+46,Chaim,Blackburn,12,"LG 28in Class LED 720p HDTV",1
+46,Chaim,Blackburn,14,"Insignia 55in Class LED 1080p HDTV",1
+46,Chaim,Blackburn,32,"Lenovo Legion 530 15.6in i7/8GB/1050ti/1TB",1
+46,Chaim,Blackburn,40,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 555X/256GB SSD",1
+47,Cody,Bell,18,"Samsung 50in Class LED NU6900 Series 2160p Smart 4K UHD TV with HDR",1
+47,Cody,Bell,48,"Samsung 11.6in Chromebook Intel Celeron 4GB/32GB",1
+48,Carlos,Collier,31,"Microsoft Surface Book 2 13.5in i5/8GB/256iGPU",1
+48,Carlos,Collier,33,"Lenovo Legion 530 15.6in i7/16GB/1050ti/1TB",1
+48,Carlos,Collier,34,"ASUS 14in AMD A6 4GB/AMD Radeon R4/500GB",2
+48,Carlos,Collier,44,"Apple Macbook 12in i3/8GB/265GB Gold",1
+48,Carlos,Collier,49,"Alienware 17.3in Gaming Laptop i7/16GB/GTX 1070/1TB/256SSD",1
+48,Carlos,Collier,50,"Microsoft Surface Dock",1
+48,Carlos,Collier,51,"Microsoft Surface Pro Signature Type Cover Platinum",1
+48,Carlos,Collier,55,"Microsfot Wireless Comfort Desktop 5050 Curved Keyboard and Mouse Black",3
+48,Carlos,Collier,62,"Microsoft Surface Go Signature Type Cover Burgandy",1
+49,Brock,Lambert,45,"Apple Macbook 12in i3/8GB/265GB Grey",1
+49,Brock,Lambert,54,"Microsoft Surface Arc Mouse Black",1
+49,Brock,Lambert,56,"Micrsofot Surface Pen Burgandy",1
+50,Maxwell,Roach,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",1
+50,Maxwell,Roach,15,"Toshiba 43in Class LED 2160p Smart 4K UH TV with HDR Fire TV Edition",1
+50,Maxwell,Roach,27,"Onkyo 4K Home Theater System Black",1
+50,Maxwell,Roach,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+50,Maxwell,Roach,65,"Microsoft Surface Go Signature Type Cover Black",1
+51,Dustin,Byers,11,"Sharp 24in Class LED 720p Smart HDTV Roku TV",1
+51,Dustin,Byers,12,"LG 28in Class LED 720p HDTV",1
+51,Dustin,Byers,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",1
+51,Dustin,Byers,29,"Klipsch Reference Series Soundbar System",1
+51,Dustin,Byers,34,"ASUS 14in AMD A6 4GB/AMD Radeon R4/500GB",1
+51,Dustin,Byers,66,"Microsoft Surface Go 10in Intel Pentium Godl 4GB/64GB",1
+52,Carson,Riddle,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",1
+52,Carson,Riddle,20,"VIZIO Soundbar System Wireless Subwoofer Amplifier Black",1
+52,Carson,Riddle,27,"Onkyo 4K Home Theater System Black",1
+53,William,Tucker,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",1
+53,William,Tucker,36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",1
+53,William,Tucker,37,"HP 14in Chromebook Intel Celeron/ 4GB/ 32GB",1
+53,William,Tucker,49,"Alienware 17.3in Gaming Laptop i7/16GB/GTX 1070/1TB/256SSD",1
+53,William,Tucker,54,"Microsoft Surface Arc Mouse Black",1
+54,Wade,Lynn,29,"Klipsch Reference Series Soundbar System",1
+55,Curran,Cooke,5,"Insignia 43in Class LED 2160p Smart 4K UHD TV with HDR Fire TV Edition",1
+55,Curran,Cooke,59,"Micrsofot Surface Pen Cobalt",1
+56,Fritz,Bates,3,"Westinghouse 49in Class LED 1080p HDTV",1
+56,Fritz,Bates,24,"Yamaha 725W Home Theater System Black",1
+56,Fritz,Bates,27,"Onkyo 4K Home Theater System Black",1
+56,Fritz,Bates,37,"HP 14in Chromebook Intel Celeron/ 4GB/ 32GB",1
+56,Fritz,Bates,66,"Microsoft Surface Go 10in Intel Pentium Godl 4GB/64GB",1
+57,Brennan,Butler,23,"Bose Bass Module 700 Wireless Subwoofer Black",1
+57,Brennan,Butler,24,"Yamaha 725W Home Theater System Black",1
+57,Brennan,Butler,33,"Lenovo Legion 530 15.6in i7/16GB/1050ti/1TB",1
+57,Brennan,Butler,38,"HP 17.3in Laptop i5/8GB/1TB HD",1
+57,Brennan,Butler,40,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 555X/256GB SSD",1
+57,Brennan,Butler,50,"Microsoft Surface Dock",1
+57,Brennan,Butler,62,"Microsoft Surface Go Signature Type Cover Burgandy",1
+58,Curran,Cleveland,1,"Insignia 50in Class LED 2160p Smart 4K UHD TV with HDR",1
+58,Curran,Cleveland,5,"Insignia 43in Class LED 2160p Smart 4K UHD TV with HDR Fire TV Edition",1
+58,Curran,Cleveland,7,"Insignia 32in Class LED 720p HDTV",1
+58,Curran,Cleveland,17,"Samsung 65in Class LED NU8000 Series 2160p Smart 4K UHD TV with HDR",1
+58,Curran,Cleveland,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",1
+58,Curran,Cleveland,32,"Lenovo Legion 530 15.6in i7/8GB/1050ti/1TB",1
+58,Curran,Cleveland,36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",1
+58,Curran,Cleveland,43,"HP Spectre x360 i7/8GB/256GB SSD ",1
+58,Curran,Cleveland,62,"Microsoft Surface Go Signature Type Cover Burgandy",1
+59,Herman,Phelps,12,"LG 28in Class LED 720p HDTV",1
+59,Herman,Phelps,29,"Klipsch Reference Series Soundbar System",1
+59,Herman,Phelps,65,"Microsoft Surface Go Signature Type Cover Black",1
+59,Herman,Phelps,66,"Microsoft Surface Go 10in Intel Pentium Godl 4GB/64GB",1
+60,Walker,Tyson,1,"Insignia 50in Class LED 2160p Smart 4K UHD TV with HDR",1
+60,Walker,Tyson,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",1
+60,Walker,Tyson,25,"Bose SoundTouch 300 Soundbar Black",1
+60,Walker,Tyson,32,"Lenovo Legion 530 15.6in i7/8GB/1050ti/1TB",1
+60,Walker,Tyson,44,"Apple Macbook 12in i3/8GB/265GB Gold",1
+60,Walker,Tyson,54,"Microsoft Surface Arc Mouse Black",1
+60,Walker,Tyson,65,"Microsoft Surface Go Signature Type Cover Black",1
+61,Lamar,Cantu,4,"LG 70in Class LED UK6190 Series 2160p Smart 4K UHD TV with HDR",1
+61,Lamar,Cantu,25,"Bose SoundTouch 300 Soundbar Black",1
+61,Lamar,Cantu,30,"Bose Bass Module 700 Subwoofer Arctic White",1
+61,Lamar,Cantu,31,"Microsoft Surface Book 2 13.5in i5/8GB/256iGPU",1
+61,Lamar,Cantu,35,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 560X/512GB SSD",1
+61,Lamar,Cantu,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+61,Lamar,Cantu,43,"HP Spectre x360 i7/8GB/256GB SSD ",1
+62,Steven,Dodson,17,"Samsung 65in Class LED NU8000 Series 2160p Smart 4K UHD TV with HDR",1
+62,Steven,Dodson,29,"Klipsch Reference Series Soundbar System",1
+62,Steven,Dodson,50,"Microsoft Surface Dock",1
+62,Steven,Dodson,53,"Micrsofot Surface Pro Typecover Black",1
+62,Steven,Dodson,54,"Microsoft Surface Arc Mouse Black",1
+62,Steven,Dodson,65,"Microsoft Surface Go Signature Type Cover Black",1
+63,Alexander,Steele,8,"Insignia 32 Class LED 720p Smart HDTV Fire TV Edition",1
+63,Alexander,Steele,12,"LG 28in Class LED 720p HDTV",1
+63,Alexander,Steele,18,"Samsung 50in Class LED NU6900 Series 2160p Smart 4K UHD TV with HDR",1
+63,Alexander,Steele,49,"Alienware 17.3in Gaming Laptop i7/16GB/GTX 1070/1TB/256SSD",1
+64,Perry,Ruiz,23,"Bose Bass Module 700 Wireless Subwoofer Black",1
+64,Perry,Ruiz,34,"ASUS 14in AMD A6 4GB/AMD Radeon R4/500GB",1
+64,Perry,Ruiz,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+64,Perry,Ruiz,49,"Alienware 17.3in Gaming Laptop i7/16GB/GTX 1070/1TB/256SSD",1
+64,Perry,Ruiz,57,"Micrsofot Surface Pen Black",1
+64,Perry,Ruiz,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+65,Harding,Avery,6,"LG 50in Class LED UK6090PUA Series 2160p Smart 4k UHD TV with HDR",1
+65,Harding,Avery,26,"Bose Bass Module 500 Subwoofer Black",1
+65,Harding,Avery,27,"Onkyo 4K Home Theater System Black",1
+65,Harding,Avery,53,"Micrsofot Surface Pro Typecover Black",1
+66,Travis,Strickland,7,"Insignia 32in Class LED 720p HDTV",1
+66,Travis,Strickland,24,"Yamaha 725W Home Theater System Black",1
+66,Travis,Strickland,62,"Microsoft Surface Go Signature Type Cover Burgandy",1
+67,Julian,Walsh,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",1
+67,Julian,Walsh,6,"LG 50in Class LED UK6090PUA Series 2160p Smart 4k UHD TV with HDR",1
+67,Julian,Walsh,9,"Insignia 43in Class LED 1080p HDTV",1
+67,Julian,Walsh,18,"Samsung 50in Class LED NU6900 Series 2160p Smart 4K UHD TV with HDR",1
+67,Julian,Walsh,25,"Bose SoundTouch 300 Soundbar Black",1
+67,Julian,Walsh,62,"Microsoft Surface Go Signature Type Cover Burgandy",1
+68,Denton,Vasquez,18,"Samsung 50in Class LED NU6900 Series 2160p Smart 4K UHD TV with HDR",1
+68,Denton,Vasquez,45,"Apple Macbook 12in i3/8GB/265GB Grey",1
+68,Denton,Vasquez,51,"Microsoft Surface Pro Signature Type Cover Platinum",1
+68,Denton,Vasquez,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+68,Denton,Vasquez,63,"Microsoft Surface Go Signature Type Cover Cobalt",1
+69,Caesar,Meyers,4,"LG 70in Class LED UK6190 Series 2160p Smart 4K UHD TV with HDR",1
+69,Caesar,Meyers,5,"Insignia 43in Class LED 2160p Smart 4K UHD TV with HDR Fire TV Edition",1
+69,Caesar,Meyers,14,"Insignia 55in Class LED 1080p HDTV",1
+69,Caesar,Meyers,28,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose White",1
+69,Caesar,Meyers,30,"Bose Bass Module 700 Subwoofer Arctic White",1
+69,Caesar,Meyers,34,"ASUS 14in AMD A6 4GB/AMD Radeon R4/500GB",1
+69,Caesar,Meyers,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+69,Caesar,Meyers,49,"Alienware 17.3in Gaming Laptop i7/16GB/GTX 1070/1TB/256SSD",1
+69,Caesar,Meyers,56,"Micrsofot Surface Pen Burgandy",1
+69,Caesar,Meyers,62,"Microsoft Surface Go Signature Type Cover Burgandy",1
+70,Cadman,Wilkins,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",1
+70,Cadman,Wilkins,3,"Westinghouse 49in Class LED 1080p HDTV",1
+70,Cadman,Wilkins,8,"Insignia 32 Class LED 720p Smart HDTV Fire TV Edition",1
+70,Cadman,Wilkins,9,"Insignia 43in Class LED 1080p HDTV",1
+70,Cadman,Wilkins,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",2
+70,Cadman,Wilkins,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+70,Cadman,Wilkins,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+71,Steven,Dejesus,14,"Insignia 55in Class LED 1080p HDTV",1
+71,Steven,Dejesus,26,"Bose Bass Module 500 Subwoofer Black",1
+71,Steven,Dejesus,30,"Bose Bass Module 700 Subwoofer Arctic White",1
+71,Steven,Dejesus,36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",2
+71,Steven,Dejesus,48,"Samsung 11.6in Chromebook Intel Celeron 4GB/32GB",1
+71,Steven,Dejesus,64,"Microsoft Surface Go Signature Type Cover Platinum",1
+71,Steven,Dejesus,65,"Microsoft Surface Go Signature Type Cover Black",1
+72,Wallace,Beard,25,"Bose SoundTouch 300 Soundbar Black",1
+72,Wallace,Beard,30,"Bose Bass Module 700 Subwoofer Arctic White",1
+72,Wallace,Beard,42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",1
+72,Wallace,Beard,47,"Microsoft Surface Pro 6 12.3in i5/8gb/128GB SSD Black",1
+72,Wallace,Beard,53,"Micrsofot Surface Pro Typecover Black",1
+72,Wallace,Beard,57,"Micrsofot Surface Pen Black",1
+73,Talon,Stephenson,15,"Toshiba 43in Class LED 2160p Smart 4K UH TV with HDR Fire TV Edition",1
+73,Talon,Stephenson,20,"VIZIO Soundbar System Wireless Subwoofer Amplifier Black",2
+73,Talon,Stephenson,34,"ASUS 14in AMD A6 4GB/AMD Radeon R4/500GB",1
+73,Talon,Stephenson,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+73,Talon,Stephenson,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+74,Tobias,Whitaker,10,"VIZIO 32in Class LED D-Series 1080p Smart HDTV",1
+74,Tobias,Whitaker,17,"Samsung 65in Class LED NU8000 Series 2160p Smart 4K UHD TV with HDR",1
+74,Tobias,Whitaker,28,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose White",1
+74,Tobias,Whitaker,29,"Klipsch Reference Series Soundbar System",1
+74,Tobias,Whitaker,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+74,Tobias,Whitaker,51,"Microsoft Surface Pro Signature Type Cover Platinum",1
+74,Tobias,Whitaker,55,"Microsfot Wireless Comfort Desktop 5050 Curved Keyboard and Mouse Black",1
+75,Owen,Foreman,55,"Microsfot Wireless Comfort Desktop 5050 Curved Keyboard and Mouse Black",1
+76,Judah,Mullen,9,"Insignia 43in Class LED 1080p HDTV",1
+76,Judah,Mullen,29,"Klipsch Reference Series Soundbar System",1
+76,Judah,Mullen,37,"HP 14in Chromebook Intel Celeron/ 4GB/ 32GB",1
+76,Judah,Mullen,43,"HP Spectre x360 i7/8GB/256GB SSD ",1
+76,Judah,Mullen,47,"Microsoft Surface Pro 6 12.3in i5/8gb/128GB SSD Black",1
+76,Judah,Mullen,62,"Microsoft Surface Go Signature Type Cover Burgandy",1
+76,Judah,Mullen,64,"Microsoft Surface Go Signature Type Cover Platinum",1
+77,Brenden,Lamb,17,"Samsung 65in Class LED NU8000 Series 2160p Smart 4K UHD TV with HDR",1
+77,Brenden,Lamb,38,"HP 17.3in Laptop i5/8GB/1TB HD",2
+77,Brenden,Lamb,50,"Microsoft Surface Dock",1
+77,Brenden,Lamb,54,"Microsoft Surface Arc Mouse Black",1
+77,Brenden,Lamb,64,"Microsoft Surface Go Signature Type Cover Platinum",1
+78,Griffin,Terry,32,"Lenovo Legion 530 15.6in i7/8GB/1050ti/1TB",1
+78,Griffin,Terry,36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",1
+78,Griffin,Terry,40,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 555X/256GB SSD",1
+78,Griffin,Terry,48,"Samsung 11.6in Chromebook Intel Celeron 4GB/32GB",1
+78,Griffin,Terry,49,"Alienware 17.3in Gaming Laptop i7/16GB/GTX 1070/1TB/256SSD",1
+79,Jakeem,Alvarado,18,"Samsung 50in Class LED NU6900 Series 2160p Smart 4K UHD TV with HDR",1
+79,Jakeem,Alvarado,23,"Bose Bass Module 700 Wireless Subwoofer Black",1
+80,Tanek,Glass,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",1
+80,Tanek,Glass,26,"Bose Bass Module 500 Subwoofer Black",1
+80,Tanek,Glass,27,"Onkyo 4K Home Theater System Black",1
+80,Tanek,Glass,28,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose White",1
+80,Tanek,Glass,36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",1
+80,Tanek,Glass,53,"Micrsofot Surface Pro Typecover Black",1
+81,Bradley,Kane,8,"Insignia 32 Class LED 720p Smart HDTV Fire TV Edition",1
+81,Bradley,Kane,14,"Insignia 55in Class LED 1080p HDTV",1
+81,Bradley,Kane,30,"Bose Bass Module 700 Subwoofer Arctic White",1
+81,Bradley,Kane,31,"Microsoft Surface Book 2 13.5in i5/8GB/256iGPU",1
+81,Bradley,Kane,48,"Samsung 11.6in Chromebook Intel Celeron 4GB/32GB",1
+81,Bradley,Kane,49,"Alienware 17.3in Gaming Laptop i7/16GB/GTX 1070/1TB/256SSD",1
+81,Bradley,Kane,62,"Microsoft Surface Go Signature Type Cover Burgandy",1
+82,James,Aguirre,42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",1
+82,James,Aguirre,45,"Apple Macbook 12in i3/8GB/265GB Grey",1
+82,James,Aguirre,60,"Microsoft Surface Pro Signature Type Cover Burgandy",1
+82,James,Aguirre,66,"Microsoft Surface Go 10in Intel Pentium Godl 4GB/64GB",1
+83,Levi,Robles,13,"Insignia 39in LED 1080p Smart HDTV Fire TV Edition",1
+83,Levi,Robles,15,"Toshiba 43in Class LED 2160p Smart 4K UH TV with HDR Fire TV Edition",1
+83,Levi,Robles,20,"VIZIO Soundbar System Wireless Subwoofer Amplifier Black",1
+83,Levi,Robles,25,"Bose SoundTouch 300 Soundbar Black",1
+83,Levi,Robles,27,"Onkyo 4K Home Theater System Black",1
+83,Levi,Robles,46,"Dell 11.6in Chromebook Intel Celeron 4GB/16GB",2
+84,Reese,Small,7,"Insignia 32in Class LED 720p HDTV",1
+84,Reese,Small,11,"Sharp 24in Class LED 720p Smart HDTV Roku TV",1
+84,Reese,Small,18,"Samsung 50in Class LED NU6900 Series 2160p Smart 4K UHD TV with HDR",1
+84,Reese,Small,34,"ASUS 14in AMD A6 4GB/AMD Radeon R4/500GB",1
+84,Reese,Small,42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",1
+84,Reese,Small,52,"Micrsofot Surface Pro 6 12.3in i5/8gb/128SSD Platinum",1
+85,Vance,Payne,21,"VIZIO Soundbar System Wireless Subwoofer Amplifier Silver",1
+85,Vance,Payne,28,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose White",1
+85,Vance,Payne,40,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 555X/256GB SSD",1
+85,Vance,Payne,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+86,Gray,Porter,43,"HP Spectre x360 i7/8GB/256GB SSD ",1
+86,Gray,Porter,53,"Micrsofot Surface Pro Typecover Black",1
+86,Gray,Porter,57,"Micrsofot Surface Pen Black",1
+87,Richard,Pace,5,"Insignia 43in Class LED 2160p Smart 4K UHD TV with HDR Fire TV Edition",1
+87,Richard,Pace,23,"Bose Bass Module 700 Wireless Subwoofer Black",1
+87,Richard,Pace,32,"Lenovo Legion 530 15.6in i7/8GB/1050ti/1TB",1
+87,Richard,Pace,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+87,Richard,Pace,62,"Microsoft Surface Go Signature Type Cover Burgandy",1
+88,Cadman,Holder,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",1
+88,Cadman,Holder,18,"Samsung 50in Class LED NU6900 Series 2160p Smart 4K UHD TV with HDR",1
+88,Cadman,Holder,20,"VIZIO Soundbar System Wireless Subwoofer Amplifier Black",1
+88,Cadman,Holder,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+88,Cadman,Holder,40,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 555X/256GB SSD",1
+88,Cadman,Holder,49,"Alienware 17.3in Gaming Laptop i7/16GB/GTX 1070/1TB/256SSD",1
+89,Brendan,Dodson,26,"Bose Bass Module 500 Subwoofer Black",2
+89,Brendan,Dodson,46,"Dell 11.6in Chromebook Intel Celeron 4GB/16GB",1
+90,Flynn,Ellison,11,"Sharp 24in Class LED 720p Smart HDTV Roku TV",1
+90,Flynn,Ellison,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",2
+90,Flynn,Ellison,32,"Lenovo Legion 530 15.6in i7/8GB/1050ti/1TB",1
+90,Flynn,Ellison,59,"Micrsofot Surface Pen Cobalt",1
+91,Kennedy,Frank,4,"LG 70in Class LED UK6190 Series 2160p Smart 4K UHD TV with HDR",1
+91,Kennedy,Frank,6,"LG 50in Class LED UK6090PUA Series 2160p Smart 4k UHD TV with HDR",1
+91,Kennedy,Frank,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",1
+92,Rooney,Sharpe,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",1
+92,Rooney,Sharpe,15,"Toshiba 43in Class LED 2160p Smart 4K UH TV with HDR Fire TV Edition",1
+92,Rooney,Sharpe,19,"VIZIO 24in Class LED Dseries 1080p Smart HDTV",1
+92,Rooney,Sharpe,27,"Onkyo 4K Home Theater System Black",1
+92,Rooney,Sharpe,28,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose White",1
+92,Rooney,Sharpe,35,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 560X/512GB SSD",1
+92,Rooney,Sharpe,42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",1
+92,Rooney,Sharpe,57,"Micrsofot Surface Pen Black",1
+93,Channing,Velez,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",1
+93,Channing,Velez,4,"LG 70in Class LED UK6190 Series 2160p Smart 4K UHD TV with HDR",1
+93,Channing,Velez,7,"Insignia 32in Class LED 720p HDTV",1
+93,Channing,Velez,19,"VIZIO 24in Class LED Dseries 1080p Smart HDTV",1
+93,Channing,Velez,43,"HP Spectre x360 i7/8GB/256GB SSD ",1
+93,Channing,Velez,52,"Micrsofot Surface Pro 6 12.3in i5/8gb/128SSD Platinum",1
+94,Trevor,Whitley,48,"Samsung 11.6in Chromebook Intel Celeron 4GB/32GB",1
+95,Rafael,Sykes,7,"Insignia 32in Class LED 720p HDTV",1
+95,Rafael,Sykes,16,"Insignia 19in Class LED 720p HDTV",1
+95,Rafael,Sykes,36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",1
+95,Rafael,Sykes,52,"Micrsofot Surface Pro 6 12.3in i5/8gb/128SSD Platinum",1
+95,Rafael,Sykes,57,"Micrsofot Surface Pen Black",2
+96,Wallace,Rutledge,9,"Insignia 43in Class LED 1080p HDTV",1
+97,Neville,Barr,19,"VIZIO 24in Class LED Dseries 1080p Smart HDTV",1
+97,Neville,Barr,21,"VIZIO Soundbar System Wireless Subwoofer Amplifier Silver",1
+97,Neville,Barr,25,"Bose SoundTouch 300 Soundbar Black",1
+97,Neville,Barr,36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",1
+97,Neville,Barr,53,"Micrsofot Surface Pro Typecover Black",1
+98,Abbot,Parsons,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",1
+98,Abbot,Parsons,4,"LG 70in Class LED UK6190 Series 2160p Smart 4K UHD TV with HDR",1
+98,Abbot,Parsons,5,"Insignia 43in Class LED 2160p Smart 4K UHD TV with HDR Fire TV Edition",1
+98,Abbot,Parsons,25,"Bose SoundTouch 300 Soundbar Black",1
+98,Abbot,Parsons,43,"HP Spectre x360 i7/8GB/256GB SSD ",1
+98,Abbot,Parsons,54,"Microsoft Surface Arc Mouse Black",1
+99,Arsenio,Terry,3,"Westinghouse 49in Class LED 1080p HDTV",1
+99,Arsenio,Terry,15,"Toshiba 43in Class LED 2160p Smart 4K UH TV with HDR Fire TV Edition",1
+99,Arsenio,Terry,20,"VIZIO Soundbar System Wireless Subwoofer Amplifier Black",1
+99,Arsenio,Terry,32,"Lenovo Legion 530 15.6in i7/8GB/1050ti/1TB",1
+99,Arsenio,Terry,58,"Micrsofot Surface Pen Platinum",1
+99,Arsenio,Terry,59,"Micrsofot Surface Pen Cobalt",1
+100,Colin,Mckenzie,4,"LG 70in Class LED UK6190 Series 2160p Smart 4K UHD TV with HDR",1
+100,Colin,Mckenzie,18,"Samsung 50in Class LED NU6900 Series 2160p Smart 4K UHD TV with HDR",1
+100,Colin,Mckenzie,19,"VIZIO 24in Class LED Dseries 1080p Smart HDTV",1
+100,Colin,Mckenzie,29,"Klipsch Reference Series Soundbar System",1
+100,Colin,Mckenzie,35,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 560X/512GB SSD",1
+100,Colin,Mckenzie,42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",1
+100,Colin,Mckenzie,46,"Dell 11.6in Chromebook Intel Celeron 4GB/16GB",1
+100,Colin,Mckenzie,52,"Micrsofot Surface Pro 6 12.3in i5/8gb/128SSD Platinum",1
+100,Colin,Mckenzie,55,"Microsfot Wireless Comfort Desktop 5050 Curved Keyboard and Mouse Black",1
+100,Colin,Mckenzie,62,"Microsoft Surface Go Signature Type Cover Burgandy",1
+101,Amber,Branch,5,"Insignia 43in Class LED 2160p Smart 4K UHD TV with HDR Fire TV Edition",1
+101,Amber,Branch,10,"VIZIO 32in Class LED D-Series 1080p Smart HDTV",1
+101,Amber,Branch,23,"Bose Bass Module 700 Wireless Subwoofer Black",1
+101,Amber,Branch,51,"Microsoft Surface Pro Signature Type Cover Platinum",1
+101,Amber,Branch,53,"Micrsofot Surface Pro Typecover Black",1
+101,Amber,Branch,62,"Microsoft Surface Go Signature Type Cover Burgandy",1
+101,Amber,Branch,64,"Microsoft Surface Go Signature Type Cover Platinum",1
+102,Allegra,Bell,18,"Samsung 50in Class LED NU6900 Series 2160p Smart 4K UHD TV with HDR",1
+102,Allegra,Bell,27,"Onkyo 4K Home Theater System Black",1
+102,Allegra,Bell,47,"Microsoft Surface Pro 6 12.3in i5/8gb/128GB SSD Black",1
+103,Stacy,Dorsey,9,"Insignia 43in Class LED 1080p HDTV",1
+103,Stacy,Dorsey,26,"Bose Bass Module 500 Subwoofer Black",2
+104,Marcia,Velasquez,6,"LG 50in Class LED UK6090PUA Series 2160p Smart 4k UHD TV with HDR",1
+104,Marcia,Velasquez,15,"Toshiba 43in Class LED 2160p Smart 4K UH TV with HDR Fire TV Edition",1
+104,Marcia,Velasquez,29,"Klipsch Reference Series Soundbar System",1
+104,Marcia,Velasquez,35,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 560X/512GB SSD",1
+104,Marcia,Velasquez,38,"HP 17.3in Laptop i5/8GB/1TB HD",1
+104,Marcia,Velasquez,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+105,Jolie,Peters,1,"Insignia 50in Class LED 2160p Smart 4K UHD TV with HDR",1
+105,Jolie,Peters,21,"VIZIO Soundbar System Wireless Subwoofer Amplifier Silver",1
+105,Jolie,Peters,38,"HP 17.3in Laptop i5/8GB/1TB HD",2
+105,Jolie,Peters,53,"Micrsofot Surface Pro Typecover Black",1
+106,Tanya,Hardy,10,"VIZIO 32in Class LED D-Series 1080p Smart HDTV",1
+106,Tanya,Hardy,28,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose White",2
+106,Tanya,Hardy,41,"Apple MacBook 12in Intel m3/8GB/256GB",1
+106,Tanya,Hardy,49,"Alienware 17.3in Gaming Laptop i7/16GB/GTX 1070/1TB/256SSD",1
+106,Tanya,Hardy,59,"Micrsofot Surface Pen Cobalt",1
+106,Tanya,Hardy,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+107,Amethyst,Garcia,7,"Insignia 32in Class LED 720p HDTV",1
+107,Amethyst,Garcia,12,"LG 28in Class LED 720p HDTV",1
+107,Amethyst,Garcia,16,"Insignia 19in Class LED 720p HDTV",1
+107,Amethyst,Garcia,29,"Klipsch Reference Series Soundbar System",1
+107,Amethyst,Garcia,30,"Bose Bass Module 700 Subwoofer Arctic White",1
+107,Amethyst,Garcia,50,"Microsoft Surface Dock",1
+107,Amethyst,Garcia,57,"Micrsofot Surface Pen Black",1
+108,Ralph,Parks,10,"VIZIO 32in Class LED D-Series 1080p Smart HDTV",1
+108,Ralph,Parks,33,"Lenovo Legion 530 15.6in i7/16GB/1050ti/1TB",1
+108,Ralph,Parks,36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",1
+108,Ralph,Parks,37,"HP 14in Chromebook Intel Celeron/ 4GB/ 32GB",1
+108,Ralph,Parks,43,"HP Spectre x360 i7/8GB/256GB SSD ",1
+108,Ralph,Parks,51,"Microsoft Surface Pro Signature Type Cover Platinum",1
+108,Ralph,Parks,53,"Micrsofot Surface Pro Typecover Black",1
+108,Ralph,Parks,64,"Microsoft Surface Go Signature Type Cover Platinum",1
+109,Noble,Lynn,5,"Insignia 43in Class LED 2160p Smart 4K UHD TV with HDR Fire TV Edition",1
+109,Noble,Lynn,15,"Toshiba 43in Class LED 2160p Smart 4K UH TV with HDR Fire TV Edition",1
+109,Noble,Lynn,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",1
+109,Noble,Lynn,48,"Samsung 11.6in Chromebook Intel Celeron 4GB/32GB",1
+109,Noble,Lynn,54,"Microsoft Surface Arc Mouse Black",1
+109,Noble,Lynn,56,"Micrsofot Surface Pen Burgandy",1
+110,Fitzgerald,Stanton,23,"Bose Bass Module 700 Wireless Subwoofer Black",1
+110,Fitzgerald,Stanton,30,"Bose Bass Module 700 Subwoofer Arctic White",1
+110,Fitzgerald,Stanton,41,"Apple MacBook 12in Intel m3/8GB/256GB",1
+110,Fitzgerald,Stanton,60,"Microsoft Surface Pro Signature Type Cover Burgandy",1
+111,Baxter,Erickson,19,"VIZIO 24in Class LED Dseries 1080p Smart HDTV",1
+111,Baxter,Erickson,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",1
+111,Baxter,Erickson,23,"Bose Bass Module 700 Wireless Subwoofer Black",1
+111,Baxter,Erickson,35,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 560X/512GB SSD",1
+111,Baxter,Erickson,42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",1
+112,Lance,Noel,15,"Toshiba 43in Class LED 2160p Smart 4K UH TV with HDR Fire TV Edition",1
+112,Lance,Noel,24,"Yamaha 725W Home Theater System Black",1
+112,Lance,Noel,33,"Lenovo Legion 530 15.6in i7/16GB/1050ti/1TB",1
+112,Lance,Noel,54,"Microsoft Surface Arc Mouse Black",1
+113,Thaddeus,Cardenas,1,"Insignia 50in Class LED 2160p Smart 4K UHD TV with HDR",1
+113,Thaddeus,Cardenas,57,"Micrsofot Surface Pen Black",1
+113,Thaddeus,Cardenas,60,"Microsoft Surface Pro Signature Type Cover Burgandy",1
+114,Vivien,Mullins,4,"LG 70in Class LED UK6190 Series 2160p Smart 4K UHD TV with HDR",1
+114,Vivien,Mullins,6,"LG 50in Class LED UK6090PUA Series 2160p Smart 4k UHD TV with HDR",1
+114,Vivien,Mullins,16,"Insignia 19in Class LED 720p HDTV",1
+114,Vivien,Mullins,17,"Samsung 65in Class LED NU8000 Series 2160p Smart 4K UHD TV with HDR",1
+114,Vivien,Mullins,19,"VIZIO 24in Class LED Dseries 1080p Smart HDTV",1
+114,Vivien,Mullins,21,"VIZIO Soundbar System Wireless Subwoofer Amplifier Silver",1
+114,Vivien,Mullins,40,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 555X/256GB SSD",1
+114,Vivien,Mullins,45,"Apple Macbook 12in i3/8GB/265GB Grey",1
+114,Vivien,Mullins,50,"Microsoft Surface Dock",1
+114,Vivien,Mullins,51,"Microsoft Surface Pro Signature Type Cover Platinum",1
+114,Vivien,Mullins,58,"Micrsofot Surface Pen Platinum",1
+115,Naomi,Burris,26,"Bose Bass Module 500 Subwoofer Black",1
+115,Naomi,Burris,31,"Microsoft Surface Book 2 13.5in i5/8GB/256iGPU",1
+115,Naomi,Burris,40,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 555X/256GB SSD",1
+115,Naomi,Burris,55,"Microsfot Wireless Comfort Desktop 5050 Curved Keyboard and Mouse Black",1
+115,Naomi,Burris,59,"Micrsofot Surface Pen Cobalt",1
+116,Keane,Porter,11,"Sharp 24in Class LED 720p Smart HDTV Roku TV",1
+116,Keane,Porter,18,"Samsung 50in Class LED NU6900 Series 2160p Smart 4K UHD TV with HDR",1
+116,Keane,Porter,38,"HP 17.3in Laptop i5/8GB/1TB HD",1
+116,Keane,Porter,50,"Microsoft Surface Dock",1
+116,Keane,Porter,57,"Micrsofot Surface Pen Black",1
+116,Keane,Porter,64,"Microsoft Surface Go Signature Type Cover Platinum",1
+117,Cameran,Weeks,3,"Westinghouse 49in Class LED 1080p HDTV",1
+118,Castor,Bowman,19,"VIZIO 24in Class LED Dseries 1080p Smart HDTV",1
+118,Castor,Bowman,42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",1
+118,Castor,Bowman,48,"Samsung 11.6in Chromebook Intel Celeron 4GB/32GB",2
+118,Castor,Bowman,52,"Micrsofot Surface Pro 6 12.3in i5/8gb/128SSD Platinum",1
+118,Castor,Bowman,59,"Micrsofot Surface Pen Cobalt",1
+119,Quintessa,Gillespie,11,"Sharp 24in Class LED 720p Smart HDTV Roku TV",1
+119,Quintessa,Gillespie,31,"Microsoft Surface Book 2 13.5in i5/8GB/256iGPU",1
+119,Quintessa,Gillespie,55,"Microsfot Wireless Comfort Desktop 5050 Curved Keyboard and Mouse Black",1
+120,Kelsey,Boyle,1,"Insignia 50in Class LED 2160p Smart 4K UHD TV with HDR",1
+120,Kelsey,Boyle,15,"Toshiba 43in Class LED 2160p Smart 4K UH TV with HDR Fire TV Edition",1
+120,Kelsey,Boyle,17,"Samsung 65in Class LED NU8000 Series 2160p Smart 4K UHD TV with HDR",1
+120,Kelsey,Boyle,28,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose White",1
+120,Kelsey,Boyle,32,"Lenovo Legion 530 15.6in i7/8GB/1050ti/1TB",1
+120,Kelsey,Boyle,45,"Apple Macbook 12in i3/8GB/265GB Grey",1
+120,Kelsey,Boyle,52,"Micrsofot Surface Pro 6 12.3in i5/8gb/128SSD Platinum",1
+120,Kelsey,Boyle,64,"Microsoft Surface Go Signature Type Cover Platinum",1
+121,Hoyt,Lewis,18,"Samsung 50in Class LED NU6900 Series 2160p Smart 4K UHD TV with HDR",1
+121,Hoyt,Lewis,29,"Klipsch Reference Series Soundbar System",1
+121,Hoyt,Lewis,49,"Alienware 17.3in Gaming Laptop i7/16GB/GTX 1070/1TB/256SSD",1
+121,Hoyt,Lewis,55,"Microsfot Wireless Comfort Desktop 5050 Curved Keyboard and Mouse Black",2
+122,Brennan,Miller,3,"Westinghouse 49in Class LED 1080p HDTV",1
+122,Brennan,Miller,5,"Insignia 43in Class LED 2160p Smart 4K UHD TV with HDR Fire TV Edition",1
+122,Brennan,Miller,21,"VIZIO Soundbar System Wireless Subwoofer Amplifier Silver",1
+122,Brennan,Miller,25,"Bose SoundTouch 300 Soundbar Black",1
+122,Brennan,Miller,26,"Bose Bass Module 500 Subwoofer Black",1
+122,Brennan,Miller,40,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 555X/256GB SSD",1
+123,Harper,Rush,17,"Samsung 65in Class LED NU8000 Series 2160p Smart 4K UHD TV with HDR",1
+123,Harper,Rush,54,"Microsoft Surface Arc Mouse Black",1
+123,Harper,Rush,65,"Microsoft Surface Go Signature Type Cover Black",1
+124,Neville,Chapman,6,"LG 50in Class LED UK6090PUA Series 2160p Smart 4k UHD TV with HDR",1
+124,Neville,Chapman,24,"Yamaha 725W Home Theater System Black",1
+124,Neville,Chapman,33,"Lenovo Legion 530 15.6in i7/16GB/1050ti/1TB",1
+125,Adara,Hall,3,"Westinghouse 49in Class LED 1080p HDTV",1
+125,Adara,Hall,16,"Insignia 19in Class LED 720p HDTV",1
+125,Adara,Hall,29,"Klipsch Reference Series Soundbar System",1
+126,Lara,Watkins,10,"VIZIO 32in Class LED D-Series 1080p Smart HDTV",1
+126,Lara,Watkins,23,"Bose Bass Module 700 Wireless Subwoofer Black",1
+126,Lara,Watkins,29,"Klipsch Reference Series Soundbar System",1
+126,Lara,Watkins,35,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 560X/512GB SSD",1
+126,Lara,Watkins,41,"Apple MacBook 12in Intel m3/8GB/256GB",1
+126,Lara,Watkins,50,"Microsoft Surface Dock",1
+127,Joel,Lancaster,1,"Insignia 50in Class LED 2160p Smart 4K UHD TV with HDR",1
+127,Joel,Lancaster,15,"Toshiba 43in Class LED 2160p Smart 4K UH TV with HDR Fire TV Edition",1
+127,Joel,Lancaster,26,"Bose Bass Module 500 Subwoofer Black",1
+128,Aubrey,Wong,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",1
+128,Aubrey,Wong,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+128,Aubrey,Wong,59,"Micrsofot Surface Pen Cobalt",1
+128,Aubrey,Wong,66,"Microsoft Surface Go 10in Intel Pentium Godl 4GB/64GB",1
+129,Coby,Hernandez,8,"Insignia 32 Class LED 720p Smart HDTV Fire TV Edition",1
+129,Coby,Hernandez,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+129,Coby,Hernandez,42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",1
+130,Keane,Malone,29,"Klipsch Reference Series Soundbar System",1
+131,Brynne,Booth,8,"Insignia 32 Class LED 720p Smart HDTV Fire TV Edition",1
+131,Brynne,Booth,19,"VIZIO 24in Class LED Dseries 1080p Smart HDTV",1
+131,Brynne,Booth,29,"Klipsch Reference Series Soundbar System",1
+131,Brynne,Booth,38,"HP 17.3in Laptop i5/8GB/1TB HD",1
+132,Fulton,Mcdowell,7,"Insignia 32in Class LED 720p HDTV",1
+132,Fulton,Mcdowell,20,"VIZIO Soundbar System Wireless Subwoofer Amplifier Black",1
+132,Fulton,Mcdowell,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",1
+132,Fulton,Mcdowell,31,"Microsoft Surface Book 2 13.5in i5/8GB/256iGPU",1
+132,Fulton,Mcdowell,38,"HP 17.3in Laptop i5/8GB/1TB HD",1
+132,Fulton,Mcdowell,60,"Microsoft Surface Pro Signature Type Cover Burgandy",1
+133,Emery,Black,8,"Insignia 32 Class LED 720p Smart HDTV Fire TV Edition",1
+133,Emery,Black,28,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose White",1
+133,Emery,Black,31,"Microsoft Surface Book 2 13.5in i5/8GB/256iGPU",1
+133,Emery,Black,47,"Microsoft Surface Pro 6 12.3in i5/8gb/128GB SSD Black",1
+133,Emery,Black,54,"Microsoft Surface Arc Mouse Black",1
+134,Candace,Hurley,3,"Westinghouse 49in Class LED 1080p HDTV",1
+134,Candace,Hurley,7,"Insignia 32in Class LED 720p HDTV",1
+134,Candace,Hurley,14,"Insignia 55in Class LED 1080p HDTV",1
+134,Candace,Hurley,21,"VIZIO Soundbar System Wireless Subwoofer Amplifier Silver",1
+134,Candace,Hurley,28,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose White",1
+134,Candace,Hurley,42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",1
+135,Roary,Small,17,"Samsung 65in Class LED NU8000 Series 2160p Smart 4K UHD TV with HDR",1
+135,Roary,Small,25,"Bose SoundTouch 300 Soundbar Black",1
+136,Yael,William,3,"Westinghouse 49in Class LED 1080p HDTV",1
+136,Yael,William,7,"Insignia 32in Class LED 720p HDTV",1
+136,Yael,William,9,"Insignia 43in Class LED 1080p HDTV",1
+136,Yael,William,57,"Micrsofot Surface Pen Black",1
+137,Jin,Chase,8,"Insignia 32 Class LED 720p Smart HDTV Fire TV Edition",1
+137,Jin,Chase,17,"Samsung 65in Class LED NU8000 Series 2160p Smart 4K UHD TV with HDR",3
+137,Jin,Chase,30,"Bose Bass Module 700 Subwoofer Arctic White",1
+137,Jin,Chase,32,"Lenovo Legion 530 15.6in i7/8GB/1050ti/1TB",1
+137,Jin,Chase,43,"HP Spectre x360 i7/8GB/256GB SSD ",1
+137,Jin,Chase,54,"Microsoft Surface Arc Mouse Black",1
+138,Craig,Beasley,6,"LG 50in Class LED UK6090PUA Series 2160p Smart 4k UHD TV with HDR",1
+138,Craig,Beasley,35,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 560X/512GB SSD",1
+138,Craig,Beasley,43,"HP Spectre x360 i7/8GB/256GB SSD ",1
+138,Craig,Beasley,50,"Microsoft Surface Dock",1
+138,Craig,Beasley,60,"Microsoft Surface Pro Signature Type Cover Burgandy",1
+139,Quin,Shepard,5,"Insignia 43in Class LED 2160p Smart 4K UHD TV with HDR Fire TV Edition",1
+139,Quin,Shepard,11,"Sharp 24in Class LED 720p Smart HDTV Roku TV",1
+139,Quin,Shepard,15,"Toshiba 43in Class LED 2160p Smart 4K UH TV with HDR Fire TV Edition",1
+139,Quin,Shepard,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+139,Quin,Shepard,52,"Micrsofot Surface Pro 6 12.3in i5/8gb/128SSD Platinum",1
+139,Quin,Shepard,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+139,Quin,Shepard,63,"Microsoft Surface Go Signature Type Cover Cobalt",1
+139,Quin,Shepard,64,"Microsoft Surface Go Signature Type Cover Platinum",1
+140,Lois,Garrison,9,"Insignia 43in Class LED 1080p HDTV",1
+140,Lois,Garrison,32,"Lenovo Legion 530 15.6in i7/8GB/1050ti/1TB",1
+140,Lois,Garrison,33,"Lenovo Legion 530 15.6in i7/16GB/1050ti/1TB",1
+140,Lois,Garrison,57,"Micrsofot Surface Pen Black",1
+141,Aline,Livingston,4,"LG 70in Class LED UK6190 Series 2160p Smart 4K UHD TV with HDR",1
+141,Aline,Livingston,15,"Toshiba 43in Class LED 2160p Smart 4K UH TV with HDR Fire TV Edition",1
+141,Aline,Livingston,30,"Bose Bass Module 700 Subwoofer Arctic White",1
+141,Aline,Livingston,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+142,Francis,Wade,5,"Insignia 43in Class LED 2160p Smart 4K UHD TV with HDR Fire TV Edition",1
+142,Francis,Wade,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",1
+142,Francis,Wade,42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",1
+142,Francis,Wade,47,"Microsoft Surface Pro 6 12.3in i5/8gb/128GB SSD Black",1
+142,Francis,Wade,50,"Microsoft Surface Dock",1
+142,Francis,Wade,60,"Microsoft Surface Pro Signature Type Cover Burgandy",1
+143,Ciaran,Meyer,11,"Sharp 24in Class LED 720p Smart HDTV Roku TV",1
+143,Ciaran,Meyer,46,"Dell 11.6in Chromebook Intel Celeron 4GB/16GB",1
+143,Ciaran,Meyer,56,"Micrsofot Surface Pen Burgandy",1
+143,Ciaran,Meyer,65,"Microsoft Surface Go Signature Type Cover Black",1
+144,Wang,Hull,33,"Lenovo Legion 530 15.6in i7/16GB/1050ti/1TB",1
+144,Wang,Hull,34,"ASUS 14in AMD A6 4GB/AMD Radeon R4/500GB",1
+144,Wang,Hull,45,"Apple Macbook 12in i3/8GB/265GB Grey",1
+144,Wang,Hull,51,"Microsoft Surface Pro Signature Type Cover Platinum",1
+145,Darius,Ramirez,3,"Westinghouse 49in Class LED 1080p HDTV",1
+145,Darius,Ramirez,59,"Micrsofot Surface Pen Cobalt",2
+145,Darius,Ramirez,60,"Microsoft Surface Pro Signature Type Cover Burgandy",1
+146,Denise,Cooper,17,"Samsung 65in Class LED NU8000 Series 2160p Smart 4K UHD TV with HDR",1
+146,Denise,Cooper,24,"Yamaha 725W Home Theater System Black",1
+146,Denise,Cooper,29,"Klipsch Reference Series Soundbar System",1
+146,Denise,Cooper,37,"HP 14in Chromebook Intel Celeron/ 4GB/ 32GB",1
+147,Brielle,Smith,7,"Insignia 32in Class LED 720p HDTV",1
+147,Brielle,Smith,27,"Onkyo 4K Home Theater System Black",1
+147,Brielle,Smith,34,"ASUS 14in AMD A6 4GB/AMD Radeon R4/500GB",1
+147,Brielle,Smith,35,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 560X/512GB SSD",1
+148,Renee,Wilkinson,13,"Insignia 39in LED 1080p Smart HDTV Fire TV Edition",1
+148,Renee,Wilkinson,14,"Insignia 55in Class LED 1080p HDTV",1
+148,Renee,Wilkinson,33,"Lenovo Legion 530 15.6in i7/16GB/1050ti/1TB",1
+148,Renee,Wilkinson,59,"Micrsofot Surface Pen Cobalt",1
+149,Brian,Koch,1,"Insignia 50in Class LED 2160p Smart 4K UHD TV with HDR",1
+149,Brian,Koch,20,"VIZIO Soundbar System Wireless Subwoofer Amplifier Black",1
+149,Brian,Koch,55,"Microsfot Wireless Comfort Desktop 5050 Curved Keyboard and Mouse Black",1
+149,Brian,Koch,62,"Microsoft Surface Go Signature Type Cover Burgandy",1
+150,Kaitlin,Quinn,7,"Insignia 32in Class LED 720p HDTV",1
+150,Kaitlin,Quinn,17,"Samsung 65in Class LED NU8000 Series 2160p Smart 4K UHD TV with HDR",1
+150,Kaitlin,Quinn,20,"VIZIO Soundbar System Wireless Subwoofer Amplifier Black",1
+150,Kaitlin,Quinn,46,"Dell 11.6in Chromebook Intel Celeron 4GB/16GB",1
+150,Kaitlin,Quinn,49,"Alienware 17.3in Gaming Laptop i7/16GB/GTX 1070/1TB/256SSD",1
+150,Kaitlin,Quinn,58,"Micrsofot Surface Pen Platinum",1
+150,Kaitlin,Quinn,64,"Microsoft Surface Go Signature Type Cover Platinum",1
+151,Jade,Hayden,27,"Onkyo 4K Home Theater System Black",1
+151,Jade,Hayden,34,"ASUS 14in AMD A6 4GB/AMD Radeon R4/500GB",1
+151,Jade,Hayden,42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",1
+152,Quynn,Chen,25,"Bose SoundTouch 300 Soundbar Black",1
+152,Quynn,Chen,26,"Bose Bass Module 500 Subwoofer Black",2
+153,Charity,Giles,10,"VIZIO 32in Class LED D-Series 1080p Smart HDTV",1
+153,Charity,Giles,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+154,Chester,Griffith,3,"Westinghouse 49in Class LED 1080p HDTV",1
+154,Chester,Griffith,4,"LG 70in Class LED UK6190 Series 2160p Smart 4K UHD TV with HDR",1
+154,Chester,Griffith,8,"Insignia 32 Class LED 720p Smart HDTV Fire TV Edition",1
+154,Chester,Griffith,9,"Insignia 43in Class LED 1080p HDTV",1
+154,Chester,Griffith,51,"Microsoft Surface Pro Signature Type Cover Platinum",1
+155,Beverly,Hardy,25,"Bose SoundTouch 300 Soundbar Black",1
+155,Beverly,Hardy,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+155,Beverly,Hardy,48,"Samsung 11.6in Chromebook Intel Celeron 4GB/32GB",1
+155,Beverly,Hardy,54,"Microsoft Surface Arc Mouse Black",1
+156,Rose,Dotson,6,"LG 50in Class LED UK6090PUA Series 2160p Smart 4k UHD TV with HDR",2
+156,Rose,Dotson,35,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 560X/512GB SSD",1
+156,Rose,Dotson,53,"Micrsofot Surface Pro Typecover Black",2
+156,Rose,Dotson,58,"Micrsofot Surface Pen Platinum",1
+156,Rose,Dotson,64,"Microsoft Surface Go Signature Type Cover Platinum",1
+157,Fallon,Brennan,10,"VIZIO 32in Class LED D-Series 1080p Smart HDTV",1
+157,Fallon,Brennan,12,"LG 28in Class LED 720p HDTV",1
+157,Fallon,Brennan,16,"Insignia 19in Class LED 720p HDTV",1
+157,Fallon,Brennan,20,"VIZIO Soundbar System Wireless Subwoofer Amplifier Black",1
+157,Fallon,Brennan,51,"Microsoft Surface Pro Signature Type Cover Platinum",1
+157,Fallon,Brennan,60,"Microsoft Surface Pro Signature Type Cover Burgandy",1
+157,Fallon,Brennan,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+158,Moana,Lindsey,3,"Westinghouse 49in Class LED 1080p HDTV",1
+158,Moana,Lindsey,7,"Insignia 32in Class LED 720p HDTV",1
+158,Moana,Lindsey,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",1
+159,Gareth,Sargent,29,"Klipsch Reference Series Soundbar System",1
+159,Gareth,Sargent,54,"Microsoft Surface Arc Mouse Black",1
+159,Gareth,Sargent,59,"Micrsofot Surface Pen Cobalt",1
+160,Ralph,Durham,23,"Bose Bass Module 700 Wireless Subwoofer Black",1
+160,Ralph,Durham,45,"Apple Macbook 12in i3/8GB/265GB Grey",1
+160,Ralph,Durham,50,"Microsoft Surface Dock",1
+160,Ralph,Durham,57,"Micrsofot Surface Pen Black",1
+160,Ralph,Durham,60,"Microsoft Surface Pro Signature Type Cover Burgandy",1
+160,Ralph,Durham,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+161,Leonard,Freeman,3,"Westinghouse 49in Class LED 1080p HDTV",1
+161,Leonard,Freeman,23,"Bose Bass Module 700 Wireless Subwoofer Black",1
+161,Leonard,Freeman,40,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 555X/256GB SSD",1
+162,Lara,Buckner,8,"Insignia 32 Class LED 720p Smart HDTV Fire TV Edition",1
+162,Lara,Buckner,17,"Samsung 65in Class LED NU8000 Series 2160p Smart 4K UHD TV with HDR",1
+162,Lara,Buckner,34,"ASUS 14in AMD A6 4GB/AMD Radeon R4/500GB",1
+162,Lara,Buckner,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+163,Honorato,Lowe,14,"Insignia 55in Class LED 1080p HDTV",1
+163,Honorato,Lowe,32,"Lenovo Legion 530 15.6in i7/8GB/1050ti/1TB",1
+163,Honorato,Lowe,47,"Microsoft Surface Pro 6 12.3in i5/8gb/128GB SSD Black",1
+163,Honorato,Lowe,63,"Microsoft Surface Go Signature Type Cover Cobalt",1
+164,Ifeoma,Roberts,30,"Bose Bass Module 700 Subwoofer Arctic White",1
+164,Ifeoma,Roberts,32,"Lenovo Legion 530 15.6in i7/8GB/1050ti/1TB",1
+164,Ifeoma,Roberts,43,"HP Spectre x360 i7/8GB/256GB SSD ",1
+164,Ifeoma,Roberts,48,"Samsung 11.6in Chromebook Intel Celeron 4GB/32GB",1
+164,Ifeoma,Roberts,53,"Micrsofot Surface Pro Typecover Black",1
+165,Teegan,Cameron,53,"Micrsofot Surface Pro Typecover Black",1
+165,Teegan,Cameron,56,"Micrsofot Surface Pen Burgandy",1
+166,Lamar,Merrill,8,"Insignia 32 Class LED 720p Smart HDTV Fire TV Edition",1
+166,Lamar,Merrill,21,"VIZIO Soundbar System Wireless Subwoofer Amplifier Silver",1
+166,Lamar,Merrill,64,"Microsoft Surface Go Signature Type Cover Platinum",1
+167,Robert,Mclaughlin,25,"Bose SoundTouch 300 Soundbar Black",1
+167,Robert,Mclaughlin,31,"Microsoft Surface Book 2 13.5in i5/8GB/256iGPU",1
+167,Robert,Mclaughlin,33,"Lenovo Legion 530 15.6in i7/16GB/1050ti/1TB",1
+167,Robert,Mclaughlin,36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",1
+167,Robert,Mclaughlin,37,"HP 14in Chromebook Intel Celeron/ 4GB/ 32GB",1
+167,Robert,Mclaughlin,42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",1
+167,Robert,Mclaughlin,52,"Micrsofot Surface Pro 6 12.3in i5/8gb/128SSD Platinum",1
+167,Robert,Mclaughlin,59,"Micrsofot Surface Pen Cobalt",1
+168,Azalia,Chen,29,"Klipsch Reference Series Soundbar System",1
+168,Azalia,Chen,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+168,Azalia,Chen,46,"Dell 11.6in Chromebook Intel Celeron 4GB/16GB",1
+168,Azalia,Chen,47,"Microsoft Surface Pro 6 12.3in i5/8gb/128GB SSD Black",1
+168,Azalia,Chen,54,"Microsoft Surface Arc Mouse Black",1
+168,Azalia,Chen,66,"Microsoft Surface Go 10in Intel Pentium Godl 4GB/64GB",1
+169,Alfreda,Alston,11,"Sharp 24in Class LED 720p Smart HDTV Roku TV",1
+169,Alfreda,Alston,37,"HP 14in Chromebook Intel Celeron/ 4GB/ 32GB",1
+170,Kay,Guerra,30,"Bose Bass Module 700 Subwoofer Arctic White",1
+170,Kay,Guerra,62,"Microsoft Surface Go Signature Type Cover Burgandy",1
+170,Kay,Guerra,63,"Microsoft Surface Go Signature Type Cover Cobalt",1
+171,Brenden,Booth,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",1
+171,Brenden,Booth,16,"Insignia 19in Class LED 720p HDTV",1
+171,Brenden,Booth,36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",1
+171,Brenden,Booth,43,"HP Spectre x360 i7/8GB/256GB SSD ",1
+171,Brenden,Booth,49,"Alienware 17.3in Gaming Laptop i7/16GB/GTX 1070/1TB/256SSD",1
+172,Galvin,Cleveland,3,"Westinghouse 49in Class LED 1080p HDTV",1
+172,Galvin,Cleveland,21,"VIZIO Soundbar System Wireless Subwoofer Amplifier Silver",1
+172,Galvin,Cleveland,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",1
+172,Galvin,Cleveland,24,"Yamaha 725W Home Theater System Black",1
+172,Galvin,Cleveland,45,"Apple Macbook 12in i3/8GB/265GB Grey",1
+172,Galvin,Cleveland,65,"Microsoft Surface Go Signature Type Cover Black",1
+174,Ayanna,Knowles,4,"LG 70in Class LED UK6190 Series 2160p Smart 4K UHD TV with HDR",1
+174,Ayanna,Knowles,7,"Insignia 32in Class LED 720p HDTV",1
+174,Ayanna,Knowles,53,"Micrsofot Surface Pro Typecover Black",1
+175,Austin,Vega,9,"Insignia 43in Class LED 1080p HDTV",1
+175,Austin,Vega,15,"Toshiba 43in Class LED 2160p Smart 4K UH TV with HDR Fire TV Edition",1
+175,Austin,Vega,18,"Samsung 50in Class LED NU6900 Series 2160p Smart 4K UHD TV with HDR",1
+175,Austin,Vega,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+175,Austin,Vega,60,"Microsoft Surface Pro Signature Type Cover Burgandy",1
+176,Avram,Spence,5,"Insignia 43in Class LED 2160p Smart 4K UHD TV with HDR Fire TV Edition",1
+176,Avram,Spence,14,"Insignia 55in Class LED 1080p HDTV",1
+176,Avram,Spence,25,"Bose SoundTouch 300 Soundbar Black",1
+176,Avram,Spence,42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",1
+176,Avram,Spence,57,"Micrsofot Surface Pen Black",1
+176,Avram,Spence,66,"Microsoft Surface Go 10in Intel Pentium Godl 4GB/64GB",1
+177,Quyn,Norris,7,"Insignia 32in Class LED 720p HDTV",1
+177,Quyn,Norris,10,"VIZIO 32in Class LED D-Series 1080p Smart HDTV",1
+177,Quyn,Norris,13,"Insignia 39in LED 1080p Smart HDTV Fire TV Edition",1
+177,Quyn,Norris,33,"Lenovo Legion 530 15.6in i7/16GB/1050ti/1TB",1
+177,Quyn,Norris,41,"Apple MacBook 12in Intel m3/8GB/256GB",1
+177,Quyn,Norris,64,"Microsoft Surface Go Signature Type Cover Platinum",1
+178,Mercedes,Bartlett,23,"Bose Bass Module 700 Wireless Subwoofer Black",1
+178,Mercedes,Bartlett,27,"Onkyo 4K Home Theater System Black",1
+178,Mercedes,Bartlett,37,"HP 14in Chromebook Intel Celeron/ 4GB/ 32GB",2
+178,Mercedes,Bartlett,50,"Microsoft Surface Dock",1
+178,Mercedes,Bartlett,63,"Microsoft Surface Go Signature Type Cover Cobalt",1
+179,Allistair,Cohen,15,"Toshiba 43in Class LED 2160p Smart 4K UH TV with HDR Fire TV Edition",1
+180,Amir,Fisher,31,"Microsoft Surface Book 2 13.5in i5/8GB/256iGPU",1
+180,Amir,Fisher,44,"Apple Macbook 12in i3/8GB/265GB Gold",1
+181,Wanda,Vance,1,"Insignia 50in Class LED 2160p Smart 4K UHD TV with HDR",1
+181,Wanda,Vance,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",1
+181,Wanda,Vance,3,"Westinghouse 49in Class LED 1080p HDTV",1
+181,Wanda,Vance,8,"Insignia 32 Class LED 720p Smart HDTV Fire TV Edition",1
+181,Wanda,Vance,22,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose Black",1
+181,Wanda,Vance,66,"Microsoft Surface Go 10in Intel Pentium Godl 4GB/64GB",1
+182,Katelyn,Buckner,5,"Insignia 43in Class LED 2160p Smart 4K UHD TV with HDR Fire TV Edition",1
+182,Katelyn,Buckner,9,"Insignia 43in Class LED 1080p HDTV",1
+182,Katelyn,Buckner,20,"VIZIO Soundbar System Wireless Subwoofer Amplifier Black",1
+182,Katelyn,Buckner,60,"Microsoft Surface Pro Signature Type Cover Burgandy",1
+183,Paki,Waller,46,"Dell 11.6in Chromebook Intel Celeron 4GB/16GB",1
+183,Paki,Waller,51,"Microsoft Surface Pro Signature Type Cover Platinum",1
+183,Paki,Waller,57,"Micrsofot Surface Pen Black",1
+184,Levi,House,17,"Samsung 65in Class LED NU8000 Series 2160p Smart 4K UHD TV with HDR",1
+184,Levi,House,36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",1
+184,Levi,House,45,"Apple Macbook 12in i3/8GB/265GB Grey",1
+184,Levi,House,54,"Microsoft Surface Arc Mouse Black",1
+184,Levi,House,60,"Microsoft Surface Pro Signature Type Cover Burgandy",1
+185,Helen,Henderson,7,"Insignia 32in Class LED 720p HDTV",1
+185,Helen,Henderson,9,"Insignia 43in Class LED 1080p HDTV",1
+185,Helen,Henderson,11,"Sharp 24in Class LED 720p Smart HDTV Roku TV",1
+185,Helen,Henderson,28,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose White",1
+185,Helen,Henderson,42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",1
+186,Megan,Hooper,1,"Insignia 50in Class LED 2160p Smart 4K UHD TV with HDR",1
+186,Megan,Hooper,5,"Insignia 43in Class LED 2160p Smart 4K UHD TV with HDR Fire TV Edition",1
+186,Megan,Hooper,12,"LG 28in Class LED 720p HDTV",1
+186,Megan,Hooper,17,"Samsung 65in Class LED NU8000 Series 2160p Smart 4K UHD TV with HDR",1
+186,Megan,Hooper,35,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 560X/512GB SSD",1
+186,Megan,Hooper,37,"HP 14in Chromebook Intel Celeron/ 4GB/ 32GB",1
+186,Megan,Hooper,47,"Microsoft Surface Pro 6 12.3in i5/8gb/128GB SSD Black",1
+187,Candace,Carney,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",1
+187,Candace,Carney,11,"Sharp 24in Class LED 720p Smart HDTV Roku TV",1
+187,Candace,Carney,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+188,Alea,Schwartz,14,"Insignia 55in Class LED 1080p HDTV",1
+188,Alea,Schwartz,16,"Insignia 19in Class LED 720p HDTV",1
+189,Emily,Valenzuela,10,"VIZIO 32in Class LED D-Series 1080p Smart HDTV",1
+189,Emily,Valenzuela,55,"Microsfot Wireless Comfort Desktop 5050 Curved Keyboard and Mouse Black",1
+190,Chanda,Rowland,42,"Apple MacBook Pro 13in i5/8GB/256GB SSD",1
+190,Chanda,Rowland,59,"Micrsofot Surface Pen Cobalt",1
+191,Myra,Patel,3,"Westinghouse 49in Class LED 1080p HDTV",1
+191,Myra,Patel,12,"LG 28in Class LED 720p HDTV",1
+191,Myra,Patel,32,"Lenovo Legion 530 15.6in i7/8GB/1050ti/1TB",1
+191,Myra,Patel,33,"Lenovo Legion 530 15.6in i7/16GB/1050ti/1TB",1
+191,Myra,Patel,44,"Apple Macbook 12in i3/8GB/265GB Gold",1
+191,Myra,Patel,59,"Micrsofot Surface Pen Cobalt",1
+191,Myra,Patel,63,"Microsoft Surface Go Signature Type Cover Cobalt",1
+192,Kathleen,Nelson,5,"Insignia 43in Class LED 2160p Smart 4K UHD TV with HDR Fire TV Edition",1
+192,Kathleen,Nelson,19,"VIZIO 24in Class LED Dseries 1080p Smart HDTV",1
+192,Kathleen,Nelson,27,"Onkyo 4K Home Theater System Black",1
+192,Kathleen,Nelson,29,"Klipsch Reference Series Soundbar System",1
+192,Kathleen,Nelson,36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",1
+192,Kathleen,Nelson,46,"Dell 11.6in Chromebook Intel Celeron 4GB/16GB",1
+192,Kathleen,Nelson,47,"Microsoft Surface Pro 6 12.3in i5/8gb/128GB SSD Black",1
+192,Kathleen,Nelson,64,"Microsoft Surface Go Signature Type Cover Platinum",1
+193,Declan,Graves,11,"Sharp 24in Class LED 720p Smart HDTV Roku TV",1
+193,Declan,Graves,18,"Samsung 50in Class LED NU6900 Series 2160p Smart 4K UHD TV with HDR",1
+193,Declan,Graves,39,"ASUS 15.6in Laptop AMD A12 Series/ 8GB/ AMD Radeon R7/128GB SSD",1
+194,Slade,Merrill,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",1
+194,Slade,Merrill,23,"Bose Bass Module 700 Wireless Subwoofer Black",1
+194,Slade,Merrill,36,"HP 15.6in AMD Ryzen 5/ 8GB/128GB SSD",1
+194,Slade,Merrill,53,"Micrsofot Surface Pro Typecover Black",1
+194,Slade,Merrill,57,"Micrsofot Surface Pen Black",2
+194,Slade,Merrill,58,"Micrsofot Surface Pen Platinum",1
+195,Daniel,Mullins,1,"Insignia 50in Class LED 2160p Smart 4K UHD TV with HDR",1
+195,Daniel,Mullins,7,"Insignia 32in Class LED 720p HDTV",1
+195,Daniel,Mullins,12,"LG 28in Class LED 720p HDTV",1
+195,Daniel,Mullins,51,"Microsoft Surface Pro Signature Type Cover Platinum",1
+196,Henry,Young,2,"Sharp 40in LED 1080p Smart HDTV Roku TV",1
+196,Henry,Young,6,"LG 50in Class LED UK6090PUA Series 2160p Smart 4k UHD TV with HDR",1
+196,Henry,Young,14,"Insignia 55in Class LED 1080p HDTV",1
+196,Henry,Young,27,"Onkyo 4K Home Theater System Black",1
+196,Henry,Young,28,"Bose Soundbar 700 Smart Speaker with Amazon Alexa Bose White",1
+196,Henry,Young,35,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 560X/512GB SSD",2
+196,Henry,Young,40,"Apple MacBook Pro 15in i7/16GB/AMD Radeon Pro 555X/256GB SSD",2
+196,Henry,Young,43,"HP Spectre x360 i7/8GB/256GB SSD ",1
+196,Henry,Young,62,"Microsoft Surface Go Signature Type Cover Burgandy",1
+196,Henry,Young,65,"Microsoft Surface Go Signature Type Cover Black",1
+197,Rina,Kelley,4,"LG 70in Class LED UK6190 Series 2160p Smart 4K UHD TV with HDR",2
+197,Rina,Kelley,10,"VIZIO 32in Class LED D-Series 1080p Smart HDTV",1
+197,Rina,Kelley,13,"Insignia 39in LED 1080p Smart HDTV Fire TV Edition",1
+197,Rina,Kelley,27,"Onkyo 4K Home Theater System Black",1
+197,Rina,Kelley,34,"ASUS 14in AMD A6 4GB/AMD Radeon R4/500GB",1
+197,Rina,Kelley,51,"Microsoft Surface Pro Signature Type Cover Platinum",1
+197,Rina,Kelley,59,"Micrsofot Surface Pen Cobalt",1
+198,Keefe,Anderson,8,"Insignia 32 Class LED 720p Smart HDTV Fire TV Edition",1
+198,Keefe,Anderson,23,"Bose Bass Module 700 Wireless Subwoofer Black",1
+198,Keefe,Anderson,47,"Microsoft Surface Pro 6 12.3in i5/8gb/128GB SSD Black",1
+198,Keefe,Anderson,65,"Microsoft Surface Go Signature Type Cover Black",1
+199,Yoshi,Justice,7,"Insignia 32in Class LED 720p HDTV",1
+199,Yoshi,Justice,12,"LG 28in Class LED 720p HDTV",1
+199,Yoshi,Justice,41,"Apple MacBook 12in Intel m3/8GB/256GB",1
+199,Yoshi,Justice,61,"Microsoft Surface Pro Signature Type Cover Cobalt",1
+199,Yoshi,Justice,63,"Microsoft Surface Go Signature Type Cover Cobalt",1
+200,Xanthus,Mckee,12,"LG 28in Class LED 720p HDTV",1
+200,Xanthus,Mckee,33,"Lenovo Legion 530 15.6in i7/16GB/1050ti/1TB",1
+200,Xanthus,Mckee,44,"Apple Macbook 12in i3/8GB/265GB Gold",1
