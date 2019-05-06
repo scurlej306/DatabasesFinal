@@ -9,10 +9,10 @@ public class Insert {
 
     // establish connections to the database
     static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
-    static final String DB_URL = "jdbc:mysql://techstore.ckszpmstwh8o.us-west-1.rds.amazonaws.com";
+    static final String DB_URL = "";
 
-    static final String USER = "root";
-    static final String PASSWORD = "Alexisjacob123";
+    static final String USER = "";
+    static final String PASSWORD = "";
 
     private static List<String> getRecordFromLine(String line) {
         List<String> values = new ArrayList<String>();
